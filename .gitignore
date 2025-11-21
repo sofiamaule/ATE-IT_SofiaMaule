@@ -1,0 +1,23 @@
+# venv
+.venv/
+
+# IDE
+.idea/
+
+# secrets
+.env
+API KEY.txt
+src/.env.edit
+
+# Model / checkpoint pesanti
+src/models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Cache Python
+__pycache__/

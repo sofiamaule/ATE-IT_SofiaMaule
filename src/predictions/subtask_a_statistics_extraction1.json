@@ -1,0 +1,8835 @@
+{
+  "data": [
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 32,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 3,
+      "sentence_id": 1,
+      "term_list": [
+        "gestione",
+        "raccolta",
+        "rifiuti urbani",
+        "comma",
+        "gestione",
+        "raccolta",
+        "rifiuti urbani",
+        "comma"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 3,
+      "sentence_id": 1,
+      "term_list": [
+        "gestione",
+        "raccolta",
+        "rifiuti urbani",
+        "comma",
+        "gestione",
+        "raccolta",
+        "rifiuti urbani",
+        "comma"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 10,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 23,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 6,
+      "sentence_id": 1,
+      "term_list": [
+        "servizio",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 29,
+      "sentence_id": 5,
+      "term_list": [
+        "giorno",
+        "ore"
+      ]
+    },
+    {
+      "document_id": "doc_nola_05",
+      "paragraph_id": 2,
+      "sentence_id": 2,
+      "term_list": [
+        "servizio",
+        "raccolta",
+        "rifiuti",
+        "servizio",
+        "raccolta",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_nola_05",
+      "paragraph_id": 2,
+      "sentence_id": 2,
+      "term_list": [
+        "servizio",
+        "raccolta",
+        "rifiuti",
+        "servizio",
+        "raccolta",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 13,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 4,
+      "term_list": [
+        "carta",
+        "alimenti"
+      ]
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 42,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 2,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_16",
+      "paragraph_id": 2,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 4,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 3,
+      "sentence_id": 3,
+      "term_list": [
+        "multimateriale",
+        "sacchetto",
+        "lunedì",
+        "giovedì",
+        "multimateriale",
+        "sacchetto",
+        "lunedì",
+        "giovedì"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 3,
+      "sentence_id": 3,
+      "term_list": [
+        "multimateriale",
+        "sacchetto",
+        "lunedì",
+        "giovedì",
+        "multimateriale",
+        "sacchetto",
+        "lunedì",
+        "giovedì"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 11,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 1,
+      "sentence_id": 11,
+      "term_list": [
+        "oli"
+      ]
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 7,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_18",
+      "paragraph_id": 4,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 7,
+      "sentence_id": 1,
+      "term_list": [
+        "utenze"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 17,
+      "term_list": [
+        "ccr",
+        "servizio",
+        "ingombranti",
+        "ccr",
+        "servizio",
+        "ingombranti"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 17,
+      "term_list": [
+        "ccr",
+        "servizio",
+        "ingombranti",
+        "ccr",
+        "servizio",
+        "ingombranti"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_04",
+      "paragraph_id": 4,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 6,
+      "sentence_id": 2,
+      "term_list": [
+        "gestione",
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 4,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 15,
+      "sentence_id": 1,
+      "term_list": [
+        "lunedì",
+        "rifiuti organici"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_02",
+      "paragraph_id": 15,
+      "sentence_id": 0,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 9,
+      "sentence_id": 2,
+      "term_list": [
+        "utente",
+        "conferimento",
+        "rifiuto",
+        "utente",
+        "conferimento",
+        "rifiuto",
+        "utente",
+        "conferimento",
+        "rifiuto"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 9,
+      "sentence_id": 2,
+      "term_list": [
+        "utente",
+        "conferimento",
+        "rifiuto",
+        "utente",
+        "conferimento",
+        "rifiuto",
+        "utente",
+        "conferimento",
+        "rifiuto"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 9,
+      "sentence_id": 2,
+      "term_list": [
+        "utente",
+        "conferimento",
+        "rifiuto",
+        "utente",
+        "conferimento",
+        "rifiuto",
+        "utente",
+        "conferimento",
+        "rifiuto"
+      ]
+    },
+    {
+      "document_id": "doc_prataprincipatodiultra_01",
+      "paragraph_id": 3,
+      "sentence_id": 0,
+      "term_list": [
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 16,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sarno_15",
+      "paragraph_id": 5,
+      "sentence_id": 23,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_fisciano_02",
+      "paragraph_id": 1,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 5,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 54,
+      "sentence_id": 2,
+      "term_list": [
+        "parte",
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_pellezzano_01",
+      "paragraph_id": 25,
+      "sentence_id": 0,
+      "term_list": [
+        "parte"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 11,
+      "term_list": [
+        "carta"
+      ]
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 17,
+      "sentence_id": 3,
+      "term_list": [
+        "servizi"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 5,
+      "sentence_id": 12,
+      "term_list": [
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_13",
+      "paragraph_id": 41,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 9,
+      "term_list": [
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 9,
+      "term_list": [
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 9,
+      "term_list": [
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 17,
+      "sentence_id": 3,
+      "term_list": [
+        "conferimento"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 12,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_pellezzano_02",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 45,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 24,
+      "sentence_id": 2,
+      "term_list": [
+        "giorni"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_17",
+      "paragraph_id": 3,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 50,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 50,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 50,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 50,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nola_05",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": [
+        "frazione",
+        "frazione"
+      ]
+    },
+    {
+      "document_id": "doc_nola_05",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": [
+        "frazione",
+        "frazione"
+      ]
+    },
+    {
+      "document_id": "doc_santagnello_19",
+      "paragraph_id": 3,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_pellezzano_02",
+      "paragraph_id": 19,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_pellezzano_02",
+      "paragraph_id": 19,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 8,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 7,
+      "sentence_id": 6,
+      "term_list": [
+        "plastica",
+        "alluminio",
+        "plastica",
+        "alluminio"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 7,
+      "sentence_id": 6,
+      "term_list": [
+        "plastica",
+        "alluminio",
+        "plastica",
+        "alluminio"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_15",
+      "paragraph_id": 2,
+      "sentence_id": 6,
+      "term_list": [
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 6,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 1,
+      "sentence_id": 0,
+      "term_list": [
+        "raccolta",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 1,
+      "sentence_id": 0,
+      "term_list": [
+        "raccolta",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_pellezzano_01",
+      "paragraph_id": 28,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 3,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti",
+        "tari"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_01",
+      "paragraph_id": 5,
+      "sentence_id": 16,
+      "term_list": [
+        "parte"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_04",
+      "paragraph_id": 7,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_22",
+      "paragraph_id": 2,
+      "sentence_id": 6,
+      "term_list": [
+        "parte"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_01",
+      "paragraph_id": 5,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 2,
+      "sentence_id": 2,
+      "term_list": [
+        "modalità di conferimento"
+      ]
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 23,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_pellezzano_01",
+      "paragraph_id": 29,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 27,
+      "term_list": [
+        "materiali",
+        "materiali",
+        "materiali"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 27,
+      "term_list": [
+        "materiali",
+        "materiali",
+        "materiali"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 27,
+      "term_list": [
+        "materiali",
+        "materiali",
+        "materiali"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 18,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 15,
+      "sentence_id": 4,
+      "term_list": [
+        "abitazioni",
+        "rifiuti",
+        "busta",
+        "abitazioni",
+        "rifiuti",
+        "busta",
+        "abitazioni",
+        "rifiuti",
+        "busta"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 15,
+      "sentence_id": 4,
+      "term_list": [
+        "abitazioni",
+        "rifiuti",
+        "busta",
+        "abitazioni",
+        "rifiuti",
+        "busta",
+        "abitazioni",
+        "rifiuti",
+        "busta"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 15,
+      "sentence_id": 4,
+      "term_list": [
+        "abitazioni",
+        "rifiuti",
+        "busta",
+        "abitazioni",
+        "rifiuti",
+        "busta",
+        "abitazioni",
+        "rifiuti",
+        "busta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 19,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 3,
+      "sentence_id": 1,
+      "term_list": [
+        "lunedì",
+        "venerdì",
+        "ore"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_20",
+      "paragraph_id": 1,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 10,
+      "sentence_id": 4,
+      "term_list": [
+        "carta"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 12,
+      "sentence_id": 2,
+      "term_list": [
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 3,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_auletta_04",
+      "paragraph_id": 7,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 10,
+      "sentence_id": 0,
+      "term_list": [
+        "utenze domestiche",
+        "raccolta differenziata",
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_marigliano_01",
+      "paragraph_id": 9,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuti",
+        "ingombranti",
+        "rifiuti",
+        "ingombranti"
+      ]
+    },
+    {
+      "document_id": "doc_marigliano_01",
+      "paragraph_id": 9,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuti",
+        "ingombranti",
+        "rifiuti",
+        "ingombranti"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 8,
+      "sentence_id": 0,
+      "term_list": [
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_28",
+      "paragraph_id": 25,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 4,
+      "sentence_id": 0,
+      "term_list": [
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 4,
+      "sentence_id": 0,
+      "term_list": [
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 4,
+      "sentence_id": 0,
+      "term_list": [
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 4,
+      "sentence_id": 0,
+      "term_list": [
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 4,
+      "sentence_id": 0,
+      "term_list": [
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 4,
+      "sentence_id": 0,
+      "term_list": [
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro",
+        "ore",
+        "secco",
+        "indifferenziato",
+        "plastica",
+        "carta",
+        "cartone",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 20,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_auletta_01",
+      "paragraph_id": 9,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 6,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 24,
+      "sentence_id": 0,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 48,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_marigliano_01",
+      "paragraph_id": 3,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 9,
+      "term_list": [
+        "conferimento",
+        "vetro",
+        "conferimento",
+        "vetro",
+        "conferimento",
+        "vetro",
+        "conferimento",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 9,
+      "term_list": [
+        "conferimento",
+        "vetro",
+        "conferimento",
+        "vetro",
+        "conferimento",
+        "vetro",
+        "conferimento",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 9,
+      "term_list": [
+        "conferimento",
+        "vetro",
+        "conferimento",
+        "vetro",
+        "conferimento",
+        "vetro",
+        "conferimento",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 9,
+      "term_list": [
+        "conferimento",
+        "vetro",
+        "conferimento",
+        "vetro",
+        "conferimento",
+        "vetro",
+        "conferimento",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 42,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_04",
+      "paragraph_id": 4,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 70,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_fisciano_02",
+      "paragraph_id": 4,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 14,
+      "sentence_id": 6,
+      "term_list": [
+        "vetro",
+        "secchiello",
+        "domenica",
+        "venerdì",
+        "vetro",
+        "secchiello",
+        "domenica",
+        "venerdì"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 14,
+      "sentence_id": 6,
+      "term_list": [
+        "vetro",
+        "secchiello",
+        "domenica",
+        "venerdì",
+        "vetro",
+        "secchiello",
+        "domenica",
+        "venerdì"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_01",
+      "paragraph_id": 5,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sarno_12",
+      "paragraph_id": 3,
+      "sentence_id": 4,
+      "term_list": [
+        "materiali"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 3,
+      "sentence_id": 0,
+      "term_list": [
+        "gestione",
+        "rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 19,
+      "sentence_id": 3,
+      "term_list": [
+        "bottiglie"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_28",
+      "paragraph_id": 14,
+      "sentence_id": 6,
+      "term_list": [
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 64,
+      "term_list": [
+        "materiali",
+        "materiali"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 64,
+      "term_list": [
+        "materiali",
+        "materiali"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_28",
+      "paragraph_id": 3,
+      "sentence_id": 0,
+      "term_list": [
+        "servizio",
+        "gestione",
+        "rifiuti",
+        "raccolta differenziata",
+        "servizi",
+        "comune",
+        "giorno"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 28,
+      "term_list": [
+        "rifiuti",
+        "raccolta",
+        "rifiuti",
+        "raccolta",
+        "rifiuti",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 28,
+      "term_list": [
+        "rifiuti",
+        "raccolta",
+        "rifiuti",
+        "raccolta",
+        "rifiuti",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 28,
+      "term_list": [
+        "rifiuti",
+        "raccolta",
+        "rifiuti",
+        "raccolta",
+        "rifiuti",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_28",
+      "paragraph_id": 14,
+      "sentence_id": 7,
+      "term_list": [
+        "servizi",
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 16,
+      "sentence_id": 4,
+      "term_list": [
+        "ore"
+      ]
+    },
+    {
+      "document_id": "doc_santagnello_16",
+      "paragraph_id": 38,
+      "sentence_id": 34,
+      "term_list": [
+        "giorno"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 5,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 23,
+      "term_list": [
+        "carta e cartone",
+        "porta a porta",
+        "carta e cartone",
+        "porta a porta",
+        "carta e cartone",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 23,
+      "term_list": [
+        "carta e cartone",
+        "porta a porta",
+        "carta e cartone",
+        "porta a porta",
+        "carta e cartone",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 23,
+      "term_list": [
+        "carta e cartone",
+        "porta a porta",
+        "carta e cartone",
+        "porta a porta",
+        "carta e cartone",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 32,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 8,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta",
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta",
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 8,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta",
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta",
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 8,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta",
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta",
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 11,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_28",
+      "paragraph_id": 14,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_02",
+      "paragraph_id": 5,
+      "sentence_id": 0,
+      "term_list": [
+        "raccolta differenziata"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 57,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 25,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_02",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 3,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 6,
+      "sentence_id": 6,
+      "term_list": [
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "domenica",
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "domenica",
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "domenica"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 6,
+      "sentence_id": 6,
+      "term_list": [
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "domenica",
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "domenica",
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "domenica"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 6,
+      "sentence_id": 6,
+      "term_list": [
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "domenica",
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "domenica",
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "domenica"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_04",
+      "paragraph_id": 9,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 60,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 60,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 16,
+      "sentence_id": 3,
+      "term_list": [
+        "materiali",
+        "materiali"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 16,
+      "sentence_id": 3,
+      "term_list": [
+        "materiali",
+        "materiali"
+      ]
+    },
+    {
+      "document_id": "doc_sarno_15",
+      "paragraph_id": 5,
+      "sentence_id": 17,
+      "term_list": [
+        "articolo"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 15,
+      "term_list": [
+        "indifferenziato porta",
+        "porta",
+        "indifferenziato porta",
+        "porta"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 15,
+      "term_list": [
+        "indifferenziato porta",
+        "porta",
+        "indifferenziato porta",
+        "porta"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 13,
+      "sentence_id": 4,
+      "term_list": [
+        "rifiuti solidi urbani",
+        "comune",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 19,
+      "sentence_id": 2,
+      "term_list": [
+        "rifiuti",
+        "contenitori"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 5,
+      "sentence_id": 1,
+      "term_list": [
+        "isola ecologica",
+        "giorni",
+        "lunedì",
+        "martedì",
+        "mercoledì",
+        "giovedì",
+        "venerdì"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 47,
+      "sentence_id": 0,
+      "term_list": [
+        "isola ecologica",
+        "isola ecologica"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 47,
+      "sentence_id": 0,
+      "term_list": [
+        "isola ecologica",
+        "isola ecologica"
+      ]
+    },
+    {
+      "document_id": "doc_pellezzano_02",
+      "paragraph_id": 19,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_20",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": [
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 13,
+      "sentence_id": 5,
+      "term_list": [
+        "rifiuti",
+        "busta",
+        "rifiuti",
+        "busta"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 13,
+      "sentence_id": 5,
+      "term_list": [
+        "rifiuti",
+        "busta",
+        "rifiuti",
+        "busta"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 8,
+      "sentence_id": 1,
+      "term_list": [
+        "giorno",
+        "gestione",
+        "rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "doc_sarno_15",
+      "paragraph_id": 5,
+      "sentence_id": 20,
+      "term_list": [
+        "comma"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 15,
+      "sentence_id": 0,
+      "term_list": [
+        "plastica",
+        "centro di raccolta",
+        "plastica",
+        "centro di raccolta",
+        "plastica",
+        "centro di raccolta",
+        "plastica",
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 15,
+      "sentence_id": 0,
+      "term_list": [
+        "plastica",
+        "centro di raccolta",
+        "plastica",
+        "centro di raccolta",
+        "plastica",
+        "centro di raccolta",
+        "plastica",
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 15,
+      "sentence_id": 0,
+      "term_list": [
+        "plastica",
+        "centro di raccolta",
+        "plastica",
+        "centro di raccolta",
+        "plastica",
+        "centro di raccolta",
+        "plastica",
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 15,
+      "sentence_id": 0,
+      "term_list": [
+        "plastica",
+        "centro di raccolta",
+        "plastica",
+        "centro di raccolta",
+        "plastica",
+        "centro di raccolta",
+        "plastica",
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 32,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 10,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 19,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_28",
+      "paragraph_id": 26,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 13,
+      "sentence_id": 2,
+      "term_list": [
+        "gestione",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_13",
+      "paragraph_id": 3,
+      "sentence_id": 1,
+      "term_list": [
+        "raccolta",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 14,
+      "sentence_id": 4,
+      "term_list": [
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "giorni",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "giorni",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "giorni"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 14,
+      "sentence_id": 4,
+      "term_list": [
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "giorni",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "giorni",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "giorni"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 14,
+      "sentence_id": 4,
+      "term_list": [
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "giorni",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "giorni",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "giorni"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 13,
+      "sentence_id": 0,
+      "term_list": [
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 2,
+      "sentence_id": 4,
+      "term_list": [
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 2,
+      "sentence_id": 4,
+      "term_list": [
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone"
+      ]
+    },
+    {
+      "document_id": "doc_fisciano_02",
+      "paragraph_id": 5,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_27",
+      "paragraph_id": 7,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 21,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sarno_15",
+      "paragraph_id": 3,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 8,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sarno_15",
+      "paragraph_id": 5,
+      "sentence_id": 5,
+      "term_list": [
+        "gestione",
+        "gestione"
+      ]
+    },
+    {
+      "document_id": "doc_sarno_15",
+      "paragraph_id": 5,
+      "sentence_id": 5,
+      "term_list": [
+        "gestione",
+        "gestione"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 64,
+      "sentence_id": 9,
+      "term_list": [
+        "isole ecologiche",
+        "isole ecologiche"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 64,
+      "sentence_id": 9,
+      "term_list": [
+        "isole ecologiche",
+        "isole ecologiche"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_02",
+      "paragraph_id": 1,
+      "sentence_id": 6,
+      "term_list": [
+        "materiali"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 33,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 64,
+      "sentence_id": 12,
+      "term_list": [
+        "isole ecologiche",
+        "isole ecologiche"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 64,
+      "sentence_id": 12,
+      "term_list": [
+        "isole ecologiche",
+        "isole ecologiche"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 14,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta",
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta",
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 14,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta",
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta",
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 14,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta",
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta",
+        "rifiuto",
+        "modalità di conferimento",
+        "giorno",
+        "conferimento fuori porta"
+      ]
+    },
+    {
+      "document_id": "doc_marigliano_01",
+      "paragraph_id": 3,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 9,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 9,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 8,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 48,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 27,
+      "sentence_id": 1,
+      "term_list": [
+        "utenze domestiche",
+        "giorni",
+        "lunedì",
+        "mercoledì",
+        "utenze domestiche",
+        "giorni",
+        "lunedì",
+        "mercoledì"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 27,
+      "sentence_id": 1,
+      "term_list": [
+        "utenze domestiche",
+        "giorni",
+        "lunedì",
+        "mercoledì",
+        "utenze domestiche",
+        "giorni",
+        "lunedì",
+        "mercoledì"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 18,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 41,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_15",
+      "paragraph_id": 3,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 66,
+      "sentence_id": 1,
+      "term_list": [
+        "indifferenziato porta",
+        "porta",
+        "indifferenziato porta",
+        "porta"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 66,
+      "sentence_id": 1,
+      "term_list": [
+        "indifferenziato porta",
+        "porta",
+        "indifferenziato porta",
+        "porta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 6,
+      "sentence_id": 0,
+      "term_list": [
+        "territorio",
+        "conferimento",
+        "porta a porta",
+        "territorio",
+        "conferimento",
+        "porta a porta",
+        "territorio",
+        "conferimento",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 6,
+      "sentence_id": 0,
+      "term_list": [
+        "territorio",
+        "conferimento",
+        "porta a porta",
+        "territorio",
+        "conferimento",
+        "porta a porta",
+        "territorio",
+        "conferimento",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 6,
+      "sentence_id": 0,
+      "term_list": [
+        "territorio",
+        "conferimento",
+        "porta a porta",
+        "territorio",
+        "conferimento",
+        "porta a porta",
+        "territorio",
+        "conferimento",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "doc_sarno_15",
+      "paragraph_id": 5,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 5,
+      "sentence_id": 2,
+      "term_list": [
+        "imballaggi"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 13,
+      "sentence_id": 0,
+      "term_list": [
+        "carta",
+        "cartone"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 24,
+      "sentence_id": 1,
+      "term_list": [
+        "martedì"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_27",
+      "paragraph_id": 5,
+      "sentence_id": 0,
+      "term_list": [
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_27",
+      "paragraph_id": 4,
+      "sentence_id": 4,
+      "term_list": [
+        "utenti",
+        "rifiuti",
+        "utenti",
+        "rifiuti",
+        "utenti",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_27",
+      "paragraph_id": 4,
+      "sentence_id": 4,
+      "term_list": [
+        "utenti",
+        "rifiuti",
+        "utenti",
+        "rifiuti",
+        "utenti",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_27",
+      "paragraph_id": 4,
+      "sentence_id": 4,
+      "term_list": [
+        "utenti",
+        "rifiuti",
+        "utenti",
+        "rifiuti",
+        "utenti",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_19",
+      "paragraph_id": 2,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 56,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 9,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_auletta_13",
+      "paragraph_id": 40,
+      "sentence_id": 2,
+      "term_list": [
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 33,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sarno_15",
+      "paragraph_id": 4,
+      "sentence_id": 1,
+      "term_list": [
+        "comune",
+        "territorio",
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_santagnello_16",
+      "paragraph_id": 27,
+      "sentence_id": 5,
+      "term_list": [
+        "articolo",
+        "richiesta",
+        "servizio",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 13,
+      "sentence_id": 3,
+      "term_list": [
+        "venerdì"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 32,
+      "sentence_id": 24,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 15,
+      "sentence_id": 3,
+      "term_list": [
+        "contenitori",
+        "conferimento",
+        "materiali"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_13",
+      "paragraph_id": 41,
+      "sentence_id": 0,
+      "term_list": [
+        "utenti",
+        "modalità"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 33,
+      "sentence_id": 0,
+      "term_list": [
+        "raee"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 8,
+      "sentence_id": 7,
+      "term_list": [
+        "imballaggi",
+        "legno"
+      ]
+    },
+    {
+      "document_id": "doc_gragnano_02",
+      "paragraph_id": 7,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 23,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santagnello_19",
+      "paragraph_id": 2,
+      "sentence_id": 3,
+      "term_list": [
+        "utenze non domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 12,
+      "sentence_id": 2,
+      "term_list": [
+        "mercoledì",
+        "ore"
+      ]
+    },
+    {
+      "document_id": "doc_pellezzano_01",
+      "paragraph_id": 17,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 6,
+      "sentence_id": 4,
+      "term_list": [
+        "rifiuti",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 6,
+      "sentence_id": 4,
+      "term_list": [
+        "rifiuti",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 65,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 65,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 65,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 65,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 65,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 65,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 65,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_13",
+      "paragraph_id": 1,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_auletta_01",
+      "paragraph_id": 5,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 17,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 5,
+      "term_list": [
+        "carta"
+      ]
+    },
+    {
+      "document_id": "doc_santagnello_16",
+      "paragraph_id": 38,
+      "sentence_id": 37,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 17,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 24,
+      "sentence_id": 5,
+      "term_list": [
+        "richiesta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 7,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 48,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 8,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_04",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 7,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 10,
+      "sentence_id": 4,
+      "term_list": [
+        "contenitori",
+        "raccolta",
+        "frazioni",
+        "rifiuti",
+        "contenitori",
+        "raccolta",
+        "frazioni",
+        "rifiuti",
+        "contenitori",
+        "raccolta",
+        "frazioni",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 10,
+      "sentence_id": 4,
+      "term_list": [
+        "contenitori",
+        "raccolta",
+        "frazioni",
+        "rifiuti",
+        "contenitori",
+        "raccolta",
+        "frazioni",
+        "rifiuti",
+        "contenitori",
+        "raccolta",
+        "frazioni",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 10,
+      "sentence_id": 4,
+      "term_list": [
+        "contenitori",
+        "raccolta",
+        "frazioni",
+        "rifiuti",
+        "contenitori",
+        "raccolta",
+        "frazioni",
+        "rifiuti",
+        "contenitori",
+        "raccolta",
+        "frazioni",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_gragnano_02",
+      "paragraph_id": 3,
+      "sentence_id": 0,
+      "term_list": [
+        "servizio",
+        "ore"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_28",
+      "paragraph_id": 14,
+      "sentence_id": 9,
+      "term_list": [
+        "servizi"
+      ]
+    },
+    {
+      "document_id": "doc_marigliano_01",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 10,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 13,
+      "sentence_id": 0,
+      "term_list": [
+        "comma",
+        "tari",
+        "comma",
+        "tari"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 13,
+      "sentence_id": 0,
+      "term_list": [
+        "comma",
+        "tari",
+        "comma",
+        "tari"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_18",
+      "paragraph_id": 2,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nola_01",
+      "paragraph_id": 8,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 14,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 34,
+      "sentence_id": 1,
+      "term_list": [
+        "isola ecologica"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 6,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 42,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 39,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 11,
+      "sentence_id": 0,
+      "term_list": [
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_01",
+      "paragraph_id": 9,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 4,
+      "sentence_id": 4,
+      "term_list": [
+        "giovedì"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_15",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 9,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 8,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 10,
+      "sentence_id": 1,
+      "term_list": [
+        "contenitori"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 1,
+      "sentence_id": 4,
+      "term_list": [
+        "martedì",
+        "giovedì",
+        "ore"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 92,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 64,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santagnello_19",
+      "paragraph_id": 4,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 37,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_marigliano_01",
+      "paragraph_id": 9,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 13,
+      "sentence_id": 2,
+      "term_list": [
+        "mercoledì"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 11,
+      "sentence_id": 2,
+      "term_list": [
+        "domenica"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 8,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 32,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_03",
+      "paragraph_id": 5,
+      "sentence_id": 1,
+      "term_list": [
+        "lunedì",
+        "venerdì",
+        "ore"
+      ]
+    },
+    {
+      "document_id": "doc_gragnano_02",
+      "paragraph_id": 5,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 6,
+      "sentence_id": 0,
+      "term_list": [
+        "raccolta differenziata"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 1,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_28",
+      "paragraph_id": 3,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_18",
+      "paragraph_id": 1,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 14,
+      "sentence_id": 2,
+      "term_list": [
+        "centro"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 26,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 21,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 9,
+      "sentence_id": 6,
+      "term_list": [
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "mercoledì",
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "mercoledì",
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "mercoledì"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 9,
+      "sentence_id": 6,
+      "term_list": [
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "mercoledì",
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "mercoledì",
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "mercoledì"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 9,
+      "sentence_id": 6,
+      "term_list": [
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "mercoledì",
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "mercoledì",
+        "secco",
+        "indifferenziato",
+        "sacchetto",
+        "mercoledì"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 22,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_auletta_04",
+      "paragraph_id": 7,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 15,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 3,
+      "sentence_id": 1,
+      "term_list": [
+        "conferimento"
+      ]
+    },
+    {
+      "document_id": "doc_santagnello_19",
+      "paragraph_id": 1,
+      "sentence_id": 0,
+      "term_list": [
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 4,
+      "sentence_id": 0,
+      "term_list": [
+        "ingombranti",
+        "imballaggi",
+        "ingombranti",
+        "imballaggi",
+        "ingombranti",
+        "imballaggi"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 4,
+      "sentence_id": 0,
+      "term_list": [
+        "ingombranti",
+        "imballaggi",
+        "ingombranti",
+        "imballaggi",
+        "ingombranti",
+        "imballaggi"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 4,
+      "sentence_id": 0,
+      "term_list": [
+        "ingombranti",
+        "imballaggi",
+        "ingombranti",
+        "imballaggi",
+        "ingombranti",
+        "imballaggi"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 33,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 2,
+      "sentence_id": 1,
+      "term_list": [
+        "raccolta differenziata",
+        "rifiuti",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 7,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_marigliano_01",
+      "paragraph_id": 9,
+      "sentence_id": 4,
+      "term_list": [
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_28",
+      "paragraph_id": 41,
+      "sentence_id": 0,
+      "term_list": [
+        "parte"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 9,
+      "sentence_id": 5,
+      "term_list": [
+        "giovedì"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 8,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 1,
+      "sentence_id": 0,
+      "term_list": [
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 8,
+      "sentence_id": 19,
+      "term_list": [
+        "utente"
+      ]
+    },
+    {
+      "document_id": "doc_prataprincipatodiultra_02",
+      "paragraph_id": 3,
+      "sentence_id": 3,
+      "term_list": [
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze"
+      ]
+    },
+    {
+      "document_id": "doc_prataprincipatodiultra_02",
+      "paragraph_id": 3,
+      "sentence_id": 3,
+      "term_list": [
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze"
+      ]
+    },
+    {
+      "document_id": "doc_prataprincipatodiultra_02",
+      "paragraph_id": 3,
+      "sentence_id": 3,
+      "term_list": [
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze"
+      ]
+    },
+    {
+      "document_id": "doc_prataprincipatodiultra_02",
+      "paragraph_id": 3,
+      "sentence_id": 3,
+      "term_list": [
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze"
+      ]
+    },
+    {
+      "document_id": "doc_prataprincipatodiultra_02",
+      "paragraph_id": 3,
+      "sentence_id": 3,
+      "term_list": [
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze",
+        "carta",
+        "cartone",
+        "porta a porta",
+        "utenze domestiche",
+        "utenze"
+      ]
+    },
+    {
+      "document_id": "doc_sarno_12",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 4,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 26,
+      "term_list": [
+        "vetro",
+        "ccr",
+        "vetro",
+        "ccr"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 26,
+      "term_list": [
+        "vetro",
+        "ccr",
+        "vetro",
+        "ccr"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 13,
+      "term_list": [
+        "bottiglie"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 9,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 37,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_pellezzano_01",
+      "paragraph_id": 28,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 21,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 21,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 48,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 64,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 48,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 48,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_gragnano_02",
+      "paragraph_id": 4,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 15,
+      "sentence_id": 5,
+      "term_list": [
+        "contenitori",
+        "raccolta",
+        "rifiuti urbani",
+        "contenitori",
+        "raccolta",
+        "rifiuti urbani",
+        "contenitori",
+        "raccolta",
+        "rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 15,
+      "sentence_id": 5,
+      "term_list": [
+        "contenitori",
+        "raccolta",
+        "rifiuti urbani",
+        "contenitori",
+        "raccolta",
+        "rifiuti urbani",
+        "contenitori",
+        "raccolta",
+        "rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 15,
+      "sentence_id": 5,
+      "term_list": [
+        "contenitori",
+        "raccolta",
+        "rifiuti urbani",
+        "contenitori",
+        "raccolta",
+        "rifiuti urbani",
+        "contenitori",
+        "raccolta",
+        "rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_04",
+      "paragraph_id": 6,
+      "sentence_id": 0,
+      "term_list": [
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_22",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_22",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_22",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_22",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_22",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_22",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_22",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica",
+        "rifiuti",
+        "multimateriale",
+        "materiali",
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "doc_sarno_15",
+      "paragraph_id": 5,
+      "sentence_id": 22,
+      "term_list": [
+        "gestione",
+        "gestione"
+      ]
+    },
+    {
+      "document_id": "doc_sarno_15",
+      "paragraph_id": 5,
+      "sentence_id": 22,
+      "term_list": [
+        "gestione",
+        "gestione"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santagnello_16",
+      "paragraph_id": 38,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_gragnano_02",
+      "paragraph_id": 6,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 7,
+      "term_list": [
+        "conferimento",
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 72,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 16,
+      "term_list": [
+        "carta",
+        "pap",
+        "carta",
+        "pap"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 16,
+      "term_list": [
+        "carta",
+        "pap",
+        "carta",
+        "pap"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_01",
+      "paragraph_id": 8,
+      "sentence_id": 0,
+      "term_list": [
+        "utenze domestiche",
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_01",
+      "paragraph_id": 8,
+      "sentence_id": 0,
+      "term_list": [
+        "utenze domestiche",
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 42,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_fisciano_02",
+      "paragraph_id": 12,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 0,
+      "term_list": [
+        "materiali"
+      ]
+    },
+    {
+      "document_id": "doc_battipaglia_02",
+      "paragraph_id": 20,
+      "sentence_id": 0,
+      "term_list": [
+        "articolo",
+        "gestione",
+        "rifiuti",
+        "territorio",
+        "giorni",
+        "articolo",
+        "gestione",
+        "rifiuti",
+        "territorio",
+        "giorni"
+      ]
+    },
+    {
+      "document_id": "doc_battipaglia_02",
+      "paragraph_id": 20,
+      "sentence_id": 0,
+      "term_list": [
+        "articolo",
+        "gestione",
+        "rifiuti",
+        "territorio",
+        "giorni",
+        "articolo",
+        "gestione",
+        "rifiuti",
+        "territorio",
+        "giorni"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 23,
+      "sentence_id": 2,
+      "term_list": [
+        "centro di raccolta",
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 23,
+      "sentence_id": 2,
+      "term_list": [
+        "centro di raccolta",
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_marigliano_01",
+      "paragraph_id": 3,
+      "sentence_id": 9,
+      "term_list": [
+        "servizio",
+        "territorio"
+      ]
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 16,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 2,
+      "sentence_id": 3,
+      "term_list": [
+        "carta",
+        "servizi",
+        "modalità"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 17,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_02",
+      "paragraph_id": 14,
+      "sentence_id": 1,
+      "term_list": [
+        "plastica",
+        "contenitori",
+        "tetra pak",
+        "alimenti",
+        "plastica",
+        "contenitori",
+        "tetra pak",
+        "alimenti"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_02",
+      "paragraph_id": 14,
+      "sentence_id": 1,
+      "term_list": [
+        "plastica",
+        "contenitori",
+        "tetra pak",
+        "alimenti",
+        "plastica",
+        "contenitori",
+        "tetra pak",
+        "alimenti"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 53,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 30,
+      "sentence_id": 0,
+      "term_list": [
+        "comune",
+        "tari",
+        "comma",
+        "servizio",
+        "rifiuti",
+        "comune",
+        "tari",
+        "comma",
+        "servizio",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 30,
+      "sentence_id": 0,
+      "term_list": [
+        "comune",
+        "tari",
+        "comma",
+        "servizio",
+        "rifiuti",
+        "comune",
+        "tari",
+        "comma",
+        "servizio",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 29,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santagnello_19",
+      "paragraph_id": 3,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 22,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 7,
+      "sentence_id": 1,
+      "term_list": [
+        "raccolta",
+        "oli esausti",
+        "raccolta",
+        "oli esausti",
+        "raccolta",
+        "oli esausti"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 7,
+      "sentence_id": 1,
+      "term_list": [
+        "raccolta",
+        "oli esausti",
+        "raccolta",
+        "oli esausti",
+        "raccolta",
+        "oli esausti"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 7,
+      "sentence_id": 1,
+      "term_list": [
+        "raccolta",
+        "oli esausti",
+        "raccolta",
+        "oli esausti",
+        "raccolta",
+        "oli esausti"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 8,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_prataprincipatodiultra_02",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": [
+        "raccolta differenziata",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 15,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_19",
+      "paragraph_id": 1,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 8,
+      "sentence_id": 3,
+      "term_list": [
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 13,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nola_01",
+      "paragraph_id": 4,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_auletta_04",
+      "paragraph_id": 7,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 19,
+      "sentence_id": 1,
+      "term_list": [
+        "comune",
+        "servizio",
+        "comune",
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 19,
+      "sentence_id": 1,
+      "term_list": [
+        "comune",
+        "servizio",
+        "comune",
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 5,
+      "sentence_id": 1,
+      "term_list": [
+        "raccolta",
+        "gestore",
+        "servizio",
+        "raccolta",
+        "gestore",
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 5,
+      "sentence_id": 1,
+      "term_list": [
+        "raccolta",
+        "gestore",
+        "servizio",
+        "raccolta",
+        "gestore",
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 29,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_pellezzano_01",
+      "paragraph_id": 29,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santagnello_16",
+      "paragraph_id": 38,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_18",
+      "paragraph_id": 3,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_battipaglia_02",
+      "paragraph_id": 6,
+      "sentence_id": 0,
+      "term_list": [
+        "territorio",
+        "gestione",
+        "rifiuti",
+        "rifiuti urbani",
+        "territorio",
+        "gestione",
+        "rifiuti",
+        "rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "doc_battipaglia_02",
+      "paragraph_id": 6,
+      "sentence_id": 0,
+      "term_list": [
+        "territorio",
+        "gestione",
+        "rifiuti",
+        "rifiuti urbani",
+        "territorio",
+        "gestione",
+        "rifiuti",
+        "rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 24,
+      "sentence_id": 1,
+      "term_list": [
+        "servizio",
+        "modalità"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_04",
+      "paragraph_id": 6,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_20",
+      "paragraph_id": 1,
+      "sentence_id": 7,
+      "term_list": [
+        "raccolta",
+        "quantità",
+        "raccolta",
+        "quantità",
+        "raccolta",
+        "quantità"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_20",
+      "paragraph_id": 1,
+      "sentence_id": 7,
+      "term_list": [
+        "raccolta",
+        "quantità",
+        "raccolta",
+        "quantità",
+        "raccolta",
+        "quantità"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_20",
+      "paragraph_id": 1,
+      "sentence_id": 7,
+      "term_list": [
+        "raccolta",
+        "quantità",
+        "raccolta",
+        "quantità",
+        "raccolta",
+        "quantità"
+      ]
+    },
+    {
+      "document_id": "doc_francavillais_02",
+      "paragraph_id": 60,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_02",
+      "paragraph_id": 1,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 17,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 28,
+      "sentence_id": 0,
+      "term_list": [
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_pellezzano_01",
+      "paragraph_id": 31,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_20",
+      "paragraph_id": 3,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_04",
+      "paragraph_id": 3,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 50,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 50,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 9,
+      "sentence_id": 2,
+      "term_list": [
+        "isola ecologica"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 21,
+      "sentence_id": 1,
+      "term_list": [
+        "imballaggi",
+        "cartone"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 2,
+      "sentence_id": 1,
+      "term_list": [
+        "lunedì"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 4,
+      "sentence_id": 1,
+      "term_list": [
+        "lunedì"
+      ]
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 42,
+      "sentence_id": 18,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 32,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_fisciano_02",
+      "paragraph_id": 7,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 23,
+      "term_list": [
+        "alimenti"
+      ]
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 23,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 9,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 12,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 10,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuti",
+        "giorni"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 15,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti urbani",
+        "rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 15,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti urbani",
+        "rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_04",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 25,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_battipaglia_02",
+      "paragraph_id": 28,
+      "sentence_id": 1,
+      "term_list": [
+        "territorio"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_16",
+      "paragraph_id": 2,
+      "sentence_id": 2,
+      "term_list": [
+        "mese"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 10,
+      "sentence_id": 3,
+      "term_list": [
+        "carta"
+      ]
+    },
+    {
+      "document_id": "doc_santagnello_19",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 6,
+      "sentence_id": 7,
+      "term_list": [
+        "oli"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 19,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 42,
+      "sentence_id": 7,
+      "term_list": [
+        "modalità",
+        "raccolta",
+        "quantità",
+        "raccolta differenziata",
+        "modalità",
+        "raccolta",
+        "quantità",
+        "raccolta differenziata"
+      ]
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 42,
+      "sentence_id": 7,
+      "term_list": [
+        "modalità",
+        "raccolta",
+        "quantità",
+        "raccolta differenziata",
+        "modalità",
+        "raccolta",
+        "quantità",
+        "raccolta differenziata"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 7,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 6,
+      "sentence_id": 0,
+      "term_list": [
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 43,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 16,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_16",
+      "paragraph_id": 4,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 11,
+      "sentence_id": 6,
+      "term_list": [
+        "pannolini",
+        "carta",
+        "oggetti",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 12,
+      "term_list": [
+        "carta"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 6,
+      "sentence_id": 1,
+      "term_list": [
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 7,
+      "term_list": [
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 7,
+      "term_list": [
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 7,
+      "term_list": [
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 7,
+      "term_list": [
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr",
+        "plastica",
+        "alluminio",
+        "pap",
+        "ccr"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 2,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_auletta_01",
+      "paragraph_id": 5,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_25",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_agropoli_13",
+      "paragraph_id": 1,
+      "sentence_id": 3,
+      "term_list": [
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 11,
+      "sentence_id": 6,
+      "term_list": [
+        "utenze domestiche",
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 11,
+      "sentence_id": 6,
+      "term_list": [
+        "utenze domestiche",
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 50,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_28",
+      "paragraph_id": 25,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 50,
+      "term_list": [
+        "rifiuto"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 13,
+      "sentence_id": 1,
+      "term_list": [
+        "servizio",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "doc_francavillais_02",
+      "paragraph_id": 65,
+      "sentence_id": 1,
+      "term_list": [
+        "articolo",
+        "comma"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 7,
+      "sentence_id": 0,
+      "term_list": [
+        "conferimento"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 8,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_pellezzano_02",
+      "paragraph_id": 16,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 15,
+      "sentence_id": 2,
+      "term_list": [
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 15,
+      "sentence_id": 2,
+      "term_list": [
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 15,
+      "sentence_id": 2,
+      "term_list": [
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 15,
+      "sentence_id": 2,
+      "term_list": [
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 15,
+      "sentence_id": 2,
+      "term_list": [
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 15,
+      "sentence_id": 2,
+      "term_list": [
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 8,
+      "sentence_id": 1,
+      "term_list": [
+        "lattine",
+        "alluminio",
+        "banda stagnata",
+        "lattine",
+        "alluminio",
+        "banda stagnata"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 8,
+      "sentence_id": 1,
+      "term_list": [
+        "lattine",
+        "alluminio",
+        "banda stagnata",
+        "lattine",
+        "alluminio",
+        "banda stagnata"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 9,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 34,
+      "sentence_id": 2,
+      "term_list": [
+        "legno"
+      ]
+    },
+    {
+      "document_id": "doc_santagnello_16",
+      "paragraph_id": 38,
+      "sentence_id": 0,
+      "term_list": [
+        "tari"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 17,
+      "sentence_id": 9,
+      "term_list": [
+        "oli"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 33,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 91,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 2,
+      "sentence_id": 8,
+      "term_list": [
+        "carta",
+        "servizi",
+        "richiesta"
+      ]
+    },
+    {
+      "document_id": "doc_santagnello_16",
+      "paragraph_id": 38,
+      "sentence_id": 9,
+      "term_list": [
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_battipaglia_02",
+      "paragraph_id": 28,
+      "sentence_id": 0,
+      "term_list": [
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 51,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 8,
+      "sentence_id": 11,
+      "term_list": [
+        "contenitori"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 12,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_gragnano_03",
+      "paragraph_id": 5,
+      "sentence_id": 0,
+      "term_list": [
+        "comma",
+        "gestione",
+        "rifiuti urbani",
+        "modalità",
+        "servizio",
+        "raccolta",
+        "trasporto",
+        "comma",
+        "gestione",
+        "rifiuti urbani",
+        "modalità",
+        "servizio",
+        "raccolta",
+        "trasporto",
+        "comma",
+        "gestione",
+        "rifiuti urbani",
+        "modalità",
+        "servizio",
+        "raccolta",
+        "trasporto"
+      ]
+    },
+    {
+      "document_id": "doc_gragnano_03",
+      "paragraph_id": 5,
+      "sentence_id": 0,
+      "term_list": [
+        "comma",
+        "gestione",
+        "rifiuti urbani",
+        "modalità",
+        "servizio",
+        "raccolta",
+        "trasporto",
+        "comma",
+        "gestione",
+        "rifiuti urbani",
+        "modalità",
+        "servizio",
+        "raccolta",
+        "trasporto",
+        "comma",
+        "gestione",
+        "rifiuti urbani",
+        "modalità",
+        "servizio",
+        "raccolta",
+        "trasporto"
+      ]
+    },
+    {
+      "document_id": "doc_gragnano_03",
+      "paragraph_id": 5,
+      "sentence_id": 0,
+      "term_list": [
+        "comma",
+        "gestione",
+        "rifiuti urbani",
+        "modalità",
+        "servizio",
+        "raccolta",
+        "trasporto",
+        "comma",
+        "gestione",
+        "rifiuti urbani",
+        "modalità",
+        "servizio",
+        "raccolta",
+        "trasporto",
+        "comma",
+        "gestione",
+        "rifiuti urbani",
+        "modalità",
+        "servizio",
+        "raccolta",
+        "trasporto"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 32,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 13,
+      "sentence_id": 1,
+      "term_list": [
+        "domenica",
+        "martedì",
+        "venerdì"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 9,
+      "sentence_id": 4,
+      "term_list": [
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 9,
+      "sentence_id": 4,
+      "term_list": [
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 9,
+      "sentence_id": 4,
+      "term_list": [
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 9,
+      "sentence_id": 4,
+      "term_list": [
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta",
+        "carta",
+        "cartone",
+        "tetra pak",
+        "busta di carta",
+        "legaccio",
+        "venerdì",
+        "mese raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 12,
+      "sentence_id": 5,
+      "term_list": [
+        "servizio",
+        "utenza",
+        "modalità",
+        "utenti",
+        "servizio",
+        "utenza",
+        "modalità",
+        "utenti",
+        "servizio",
+        "utenza",
+        "modalità",
+        "utenti"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 12,
+      "sentence_id": 5,
+      "term_list": [
+        "servizio",
+        "utenza",
+        "modalità",
+        "utenti",
+        "servizio",
+        "utenza",
+        "modalità",
+        "utenti",
+        "servizio",
+        "utenza",
+        "modalità",
+        "utenti"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 12,
+      "sentence_id": 5,
+      "term_list": [
+        "servizio",
+        "utenza",
+        "modalità",
+        "utenti",
+        "servizio",
+        "utenza",
+        "modalità",
+        "utenti",
+        "servizio",
+        "utenza",
+        "modalità",
+        "utenti"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 37,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 8,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 2,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_santagnello_16",
+      "paragraph_id": 38,
+      "sentence_id": 22,
+      "term_list": [
+        "parte",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 11,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_27",
+      "paragraph_id": 6,
+      "sentence_id": 1,
+      "term_list": [
+        "conferimento",
+        "rifiuto",
+        "contenitori",
+        "territorio",
+        "giorno",
+        "conferimento",
+        "rifiuto",
+        "contenitori",
+        "territorio",
+        "giorno"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_27",
+      "paragraph_id": 6,
+      "sentence_id": 1,
+      "term_list": [
+        "conferimento",
+        "rifiuto",
+        "contenitori",
+        "territorio",
+        "giorno",
+        "conferimento",
+        "rifiuto",
+        "contenitori",
+        "territorio",
+        "giorno"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 5,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 5,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 5,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 5,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 5,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 5,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 5,
+      "sentence_id": 1,
+      "term_list": [
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica",
+        "rifiuti",
+        "contenitori",
+        "isola ecologica"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 33,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 45,
+      "term_list": [
+        "frazione"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 6,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 54,
+      "sentence_id": 1,
+      "term_list": [
+        "utente",
+        "utente"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 54,
+      "sentence_id": 1,
+      "term_list": [
+        "utente",
+        "utente"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 47,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_marigliano_01",
+      "paragraph_id": 8,
+      "sentence_id": 9,
+      "term_list": [
+        "quantità",
+        "settimanale",
+        "giovedì",
+        "richiesta telefonica",
+        "conferimento",
+        "mese",
+        "utenza",
+        "abitazioni",
+        "ore",
+        "giorno precedente",
+        "quantità",
+        "settimanale",
+        "giovedì",
+        "richiesta telefonica",
+        "conferimento",
+        "mese",
+        "utenza",
+        "abitazioni",
+        "ore",
+        "giorno precedente",
+        "quantità",
+        "settimanale",
+        "giovedì",
+        "richiesta telefonica",
+        "conferimento",
+        "mese",
+        "utenza",
+        "abitazioni",
+        "ore",
+        "giorno precedente"
+      ]
+    },
+    {
+      "document_id": "doc_marigliano_01",
+      "paragraph_id": 8,
+      "sentence_id": 9,
+      "term_list": [
+        "quantità",
+        "settimanale",
+        "giovedì",
+        "richiesta telefonica",
+        "conferimento",
+        "mese",
+        "utenza",
+        "abitazioni",
+        "ore",
+        "giorno precedente",
+        "quantità",
+        "settimanale",
+        "giovedì",
+        "richiesta telefonica",
+        "conferimento",
+        "mese",
+        "utenza",
+        "abitazioni",
+        "ore",
+        "giorno precedente",
+        "quantità",
+        "settimanale",
+        "giovedì",
+        "richiesta telefonica",
+        "conferimento",
+        "mese",
+        "utenza",
+        "abitazioni",
+        "ore",
+        "giorno precedente"
+      ]
+    },
+    {
+      "document_id": "doc_marigliano_01",
+      "paragraph_id": 8,
+      "sentence_id": 9,
+      "term_list": [
+        "quantità",
+        "settimanale",
+        "giovedì",
+        "richiesta telefonica",
+        "conferimento",
+        "mese",
+        "utenza",
+        "abitazioni",
+        "ore",
+        "giorno precedente",
+        "quantità",
+        "settimanale",
+        "giovedì",
+        "richiesta telefonica",
+        "conferimento",
+        "mese",
+        "utenza",
+        "abitazioni",
+        "ore",
+        "giorno precedente",
+        "quantità",
+        "settimanale",
+        "giovedì",
+        "richiesta telefonica",
+        "conferimento",
+        "mese",
+        "utenza",
+        "abitazioni",
+        "ore",
+        "giorno precedente"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 10,
+      "sentence_id": 1,
+      "term_list": [
+        "oli",
+        "trasporto",
+        "oli esausti",
+        "oli",
+        "trasporto",
+        "oli esausti"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 10,
+      "sentence_id": 1,
+      "term_list": [
+        "oli",
+        "trasporto",
+        "oli esausti",
+        "oli",
+        "trasporto",
+        "oli esausti"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 12,
+      "sentence_id": 6,
+      "term_list": [
+        "modalità",
+        "raccolta",
+        "comune",
+        "rifiuti",
+        "modalità",
+        "raccolta",
+        "comune",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 12,
+      "sentence_id": 6,
+      "term_list": [
+        "modalità",
+        "raccolta",
+        "comune",
+        "rifiuti",
+        "modalità",
+        "raccolta",
+        "comune",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_28",
+      "paragraph_id": 14,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 59,
+      "sentence_id": 7,
+      "term_list": [
+        "indifferenziato porta",
+        "porta",
+        "indifferenziato porta",
+        "porta"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 59,
+      "sentence_id": 7,
+      "term_list": [
+        "indifferenziato porta",
+        "porta",
+        "indifferenziato porta",
+        "porta"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 8,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_20",
+      "paragraph_id": 3,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_16",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sarno_15",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 3,
+      "sentence_id": 1,
+      "term_list": [
+        "ore",
+        "giorno precedente",
+        "giorno"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_27",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 55,
+      "sentence_id": 1,
+      "term_list": [
+        "servizi"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 59,
+      "sentence_id": 3,
+      "term_list": [
+        "multimateriale",
+        "porta a porta",
+        "multimateriale",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 59,
+      "sentence_id": 3,
+      "term_list": [
+        "multimateriale",
+        "porta a porta",
+        "multimateriale",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 32,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 28,
+      "sentence_id": 2,
+      "term_list": [
+        "parte",
+        "utenze domestiche",
+        "parte",
+        "utenze domestiche",
+        "parte",
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 28,
+      "sentence_id": 2,
+      "term_list": [
+        "parte",
+        "utenze domestiche",
+        "parte",
+        "utenze domestiche",
+        "parte",
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 28,
+      "sentence_id": 2,
+      "term_list": [
+        "parte",
+        "utenze domestiche",
+        "parte",
+        "utenze domestiche",
+        "parte",
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 5,
+      "sentence_id": 3,
+      "term_list": [
+        "mese"
+      ]
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 23,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 41,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_fisciano_02",
+      "paragraph_id": 5,
+      "sentence_id": 3,
+      "term_list": [
+        "trasporto"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 5,
+      "sentence_id": 0,
+      "term_list": [
+        "servizio",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_francavillais_02",
+      "paragraph_id": 12,
+      "sentence_id": 17,
+      "term_list": [
+        "comune",
+        "comma"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 28,
+      "sentence_id": 0,
+      "term_list": [
+        "comma"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 8,
+      "sentence_id": 23,
+      "term_list": [
+        "frazione",
+        "frazione"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 8,
+      "sentence_id": 23,
+      "term_list": [
+        "frazione",
+        "frazione"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_19",
+      "paragraph_id": 3,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 50,
+      "sentence_id": 12,
+      "term_list": [
+        "imballaggi",
+        "materiali",
+        "vetro",
+        "contenitori",
+        "imballaggi",
+        "materiali",
+        "vetro",
+        "contenitori"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 50,
+      "sentence_id": 12,
+      "term_list": [
+        "imballaggi",
+        "materiali",
+        "vetro",
+        "contenitori",
+        "imballaggi",
+        "materiali",
+        "vetro",
+        "contenitori"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 12,
+      "sentence_id": 1,
+      "term_list": [
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 16,
+      "sentence_id": 2,
+      "term_list": [
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_04",
+      "paragraph_id": 3,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 7,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 7,
+      "sentence_id": 2,
+      "term_list": [
+        "imballaggi",
+        "cartone",
+        "contenitori",
+        "carta",
+        "imballaggi",
+        "cartone",
+        "contenitori",
+        "carta"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 7,
+      "sentence_id": 2,
+      "term_list": [
+        "imballaggi",
+        "cartone",
+        "contenitori",
+        "carta",
+        "imballaggi",
+        "cartone",
+        "contenitori",
+        "carta"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 42,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 12,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 11,
+      "sentence_id": 1,
+      "term_list": [
+        "bottiglie",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 18,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_auletta_13",
+      "paragraph_id": 19,
+      "sentence_id": 6,
+      "term_list": [
+        "gestione",
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 18,
+      "sentence_id": 0,
+      "term_list": [
+        "modalità",
+        "tari"
+      ]
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 23,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_gragnano_03",
+      "paragraph_id": 10,
+      "sentence_id": 3,
+      "term_list": [
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 11,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_prataprincipatodiultra_02",
+      "paragraph_id": 4,
+      "sentence_id": 1,
+      "term_list": [
+        "frazione organica",
+        "alimenti",
+        "pannolini",
+        "frazione organica",
+        "alimenti",
+        "pannolini"
+      ]
+    },
+    {
+      "document_id": "doc_prataprincipatodiultra_02",
+      "paragraph_id": 4,
+      "sentence_id": 1,
+      "term_list": [
+        "frazione organica",
+        "alimenti",
+        "pannolini",
+        "frazione organica",
+        "alimenti",
+        "pannolini"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 34,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 12,
+      "sentence_id": 4,
+      "term_list": [
+        "rifiuti",
+        "centro",
+        "rifiuti",
+        "centro"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 12,
+      "sentence_id": 4,
+      "term_list": [
+        "rifiuti",
+        "centro",
+        "rifiuti",
+        "centro"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 44,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 51,
+      "sentence_id": 2,
+      "term_list": [
+        "rifiuto"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 22,
+      "sentence_id": 7,
+      "term_list": [
+        "secchiello"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 33,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_fisciano_02",
+      "paragraph_id": 4,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sarno_12",
+      "paragraph_id": 2,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 33,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 8,
+      "sentence_id": 6,
+      "term_list": [
+        "rifiuti",
+        "ingombranti"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 19,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_pellezzano_01",
+      "paragraph_id": 17,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_auletta_13",
+      "paragraph_id": 36,
+      "sentence_id": 1,
+      "term_list": [
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio",
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio",
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio",
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_13",
+      "paragraph_id": 36,
+      "sentence_id": 1,
+      "term_list": [
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio",
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio",
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio",
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_13",
+      "paragraph_id": 36,
+      "sentence_id": 1,
+      "term_list": [
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio",
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio",
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio",
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_13",
+      "paragraph_id": 36,
+      "sentence_id": 1,
+      "term_list": [
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio",
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio",
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio",
+        "utente",
+        "gestore",
+        "raccolta",
+        "trasporto",
+        "articolo",
+        "servizio"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 8,
+      "sentence_id": 6,
+      "term_list": [
+        "frazioni",
+        "utenza",
+        "tari",
+        "frazione",
+        "frazioni",
+        "utenza",
+        "tari",
+        "frazione",
+        "frazioni",
+        "utenza",
+        "tari",
+        "frazione"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 8,
+      "sentence_id": 6,
+      "term_list": [
+        "frazioni",
+        "utenza",
+        "tari",
+        "frazione",
+        "frazioni",
+        "utenza",
+        "tari",
+        "frazione",
+        "frazioni",
+        "utenza",
+        "tari",
+        "frazione"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 8,
+      "sentence_id": 6,
+      "term_list": [
+        "frazioni",
+        "utenza",
+        "tari",
+        "frazione",
+        "frazioni",
+        "utenza",
+        "tari",
+        "frazione",
+        "frazioni",
+        "utenza",
+        "tari",
+        "frazione"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 24,
+      "term_list": [
+        "multimateriale",
+        "porta a porta",
+        "multimateriale",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 24,
+      "term_list": [
+        "multimateriale",
+        "porta a porta",
+        "multimateriale",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "doc_pellezzano_01",
+      "paragraph_id": 17,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 14,
+      "sentence_id": 4,
+      "term_list": [
+        "servizio",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 1,
+      "sentence_id": 7,
+      "term_list": [
+        "imballaggi",
+        "carta e cartone"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 15,
+      "sentence_id": 2,
+      "term_list": [
+        "martedì",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 4,
+      "sentence_id": 5,
+      "term_list": [
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 4,
+      "sentence_id": 5,
+      "term_list": [
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 4,
+      "sentence_id": 5,
+      "term_list": [
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 4,
+      "sentence_id": 5,
+      "term_list": [
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 32,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 42,
+      "sentence_id": 10,
+      "term_list": [
+        "utente",
+        "gestore"
+      ]
+    },
+    {
+      "document_id": "doc_auletta_01",
+      "paragraph_id": 9,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_03",
+      "paragraph_id": 3,
+      "sentence_id": 1,
+      "term_list": [
+        "martedì",
+        "plastica",
+        "multimateriale",
+        "martedì",
+        "plastica",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_03",
+      "paragraph_id": 3,
+      "sentence_id": 1,
+      "term_list": [
+        "martedì",
+        "plastica",
+        "multimateriale",
+        "martedì",
+        "plastica",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 4,
+      "sentence_id": 4,
+      "term_list": [
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 4,
+      "sentence_id": 4,
+      "term_list": [
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 4,
+      "sentence_id": 4,
+      "term_list": [
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 4,
+      "sentence_id": 4,
+      "term_list": [
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 4,
+      "sentence_id": 4,
+      "term_list": [
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "rifiuto indifferenziato"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_04",
+      "paragraph_id": 3,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 15,
+      "sentence_id": 1,
+      "term_list": [
+        "quantità"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_20",
+      "paragraph_id": 3,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 48,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 27,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 19,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 23,
+      "sentence_id": 9,
+      "term_list": [
+        "raccolta differenziata"
+      ]
+    },
+    {
+      "document_id": "doc_battipaglia_02",
+      "paragraph_id": 20,
+      "sentence_id": 2,
+      "term_list": [
+        "articolo",
+        "comma"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 16,
+      "sentence_id": 8,
+      "term_list": [
+        "frazione"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 3,
+      "sentence_id": 2,
+      "term_list": [
+        "raccolta",
+        "territorio"
+      ]
+    },
+    {
+      "document_id": "doc_fisciano_02",
+      "paragraph_id": 10,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 8,
+      "sentence_id": 3,
+      "term_list": [
+        "multimateriale",
+        "sacchetto",
+        "giovedì",
+        "mese raccolta",
+        "multimateriale",
+        "sacchetto",
+        "giovedì",
+        "mese raccolta",
+        "multimateriale",
+        "sacchetto",
+        "giovedì",
+        "mese raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 8,
+      "sentence_id": 3,
+      "term_list": [
+        "multimateriale",
+        "sacchetto",
+        "giovedì",
+        "mese raccolta",
+        "multimateriale",
+        "sacchetto",
+        "giovedì",
+        "mese raccolta",
+        "multimateriale",
+        "sacchetto",
+        "giovedì",
+        "mese raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 8,
+      "sentence_id": 3,
+      "term_list": [
+        "multimateriale",
+        "sacchetto",
+        "giovedì",
+        "mese raccolta",
+        "multimateriale",
+        "sacchetto",
+        "giovedì",
+        "mese raccolta",
+        "multimateriale",
+        "sacchetto",
+        "giovedì",
+        "mese raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 16,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_francavillais_02",
+      "paragraph_id": 40,
+      "sentence_id": 6,
+      "term_list": [
+        "articolo",
+        "comma"
+      ]
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 2,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 24,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 20,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 27,
+      "sentence_id": 0,
+      "term_list": [
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 19,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 13,
+      "sentence_id": 0,
+      "term_list": [
+        "pannolini"
+      ]
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 6,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_auletta_01",
+      "paragraph_id": 5,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 17,
+      "sentence_id": 2,
+      "term_list": [
+        "giorni",
+        "conferimento",
+        "lunedì"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_02",
+      "paragraph_id": 2,
+      "sentence_id": 5,
+      "term_list": [
+        "giovedì",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 28,
+      "sentence_id": 1,
+      "term_list": [
+        "comma"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 8,
+      "term_list": [
+        "indifferenziato porta",
+        "porta",
+        "indifferenziato porta",
+        "porta"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 8,
+      "term_list": [
+        "indifferenziato porta",
+        "porta",
+        "indifferenziato porta",
+        "porta"
+      ]
+    },
+    {
+      "document_id": "doc_gragnano_03",
+      "paragraph_id": 11,
+      "sentence_id": 4,
+      "term_list": [
+        "conferimento"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 24,
+      "term_list": [
+        "frazione",
+        "raccolta",
+        "frazione",
+        "raccolta",
+        "frazione",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 24,
+      "term_list": [
+        "frazione",
+        "raccolta",
+        "frazione",
+        "raccolta",
+        "frazione",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 24,
+      "term_list": [
+        "frazione",
+        "raccolta",
+        "frazione",
+        "raccolta",
+        "frazione",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 17,
+      "sentence_id": 2,
+      "term_list": [
+        "comma",
+        "servizio",
+        "gestione",
+        "rifiuti",
+        "parte",
+        "richiesta"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 72,
+      "sentence_id": 15,
+      "term_list": [
+        "carta",
+        "umido",
+        "porta a porta",
+        "indifferenziato",
+        "carta",
+        "umido",
+        "porta a porta",
+        "indifferenziato",
+        "carta",
+        "umido",
+        "porta a porta",
+        "indifferenziato"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 72,
+      "sentence_id": 15,
+      "term_list": [
+        "carta",
+        "umido",
+        "porta a porta",
+        "indifferenziato",
+        "carta",
+        "umido",
+        "porta a porta",
+        "indifferenziato",
+        "carta",
+        "umido",
+        "porta a porta",
+        "indifferenziato"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 72,
+      "sentence_id": 15,
+      "term_list": [
+        "carta",
+        "umido",
+        "porta a porta",
+        "indifferenziato",
+        "carta",
+        "umido",
+        "porta a porta",
+        "indifferenziato",
+        "carta",
+        "umido",
+        "porta a porta",
+        "indifferenziato"
+      ]
+    },
+    {
+      "document_id": "doc_sarno_15",
+      "paragraph_id": 1,
+      "sentence_id": 0,
+      "term_list": [
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 30,
+      "term_list": [
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 30,
+      "term_list": [
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 30,
+      "term_list": [
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 30,
+      "term_list": [
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 68,
+      "sentence_id": 30,
+      "term_list": [
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche",
+        "umido",
+        "porta a porta",
+        "quantità",
+        "isole ecologiche"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_03",
+      "paragraph_id": 3,
+      "sentence_id": 4,
+      "term_list": [
+        "venerdì",
+        "umido",
+        "venerdì",
+        "umido"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_03",
+      "paragraph_id": 3,
+      "sentence_id": 4,
+      "term_list": [
+        "venerdì",
+        "umido",
+        "venerdì",
+        "umido"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 67,
+      "term_list": [
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "doc_pellezzano_01",
+      "paragraph_id": 5,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 7,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 1,
+      "sentence_id": 12,
+      "term_list": [
+        "ingombranti",
+        "ingombranti"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 1,
+      "sentence_id": 12,
+      "term_list": [
+        "ingombranti",
+        "ingombranti"
+      ]
+    },
+    {
+      "document_id": "doc_gragnano_03",
+      "paragraph_id": 11,
+      "sentence_id": 1,
+      "term_list": [
+        "domenica",
+        "lunedì",
+        "martedì",
+        "mercoledì",
+        "giovedì",
+        "venerdì"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 13,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 1,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 82,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 66,
+      "sentence_id": 2,
+      "term_list": [
+        "isole ecologiche",
+        "isole ecologiche"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 66,
+      "sentence_id": 2,
+      "term_list": [
+        "isole ecologiche",
+        "isole ecologiche"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 35,
+      "sentence_id": 1,
+      "term_list": [
+        "comma",
+        "giorni"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 16,
+      "sentence_id": 5,
+      "term_list": [
+        "contenitori"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 13,
+      "sentence_id": 12,
+      "term_list": [
+        "raee"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 11,
+      "sentence_id": 0,
+      "term_list": [
+        "imballaggi",
+        "cartone"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_15",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti",
+        "materiali",
+        "plastica",
+        "giorni",
+        "rifiuti",
+        "materiali",
+        "plastica",
+        "giorni"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_15",
+      "paragraph_id": 2,
+      "sentence_id": 0,
+      "term_list": [
+        "rifiuti",
+        "materiali",
+        "plastica",
+        "giorni",
+        "rifiuti",
+        "materiali",
+        "plastica",
+        "giorni"
+      ]
+    },
+    {
+      "document_id": "doc_battipaglia_13",
+      "paragraph_id": 20,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 16,
+      "sentence_id": 4,
+      "term_list": [
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 16,
+      "sentence_id": 4,
+      "term_list": [
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 16,
+      "sentence_id": 4,
+      "term_list": [
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 16,
+      "sentence_id": 4,
+      "term_list": [
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "giovedì",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 29,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 10,
+      "sentence_id": 5,
+      "term_list": [
+        "tetra pak",
+        "alimenti",
+        "tetra pak",
+        "alimenti"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 10,
+      "sentence_id": 5,
+      "term_list": [
+        "tetra pak",
+        "alimenti",
+        "tetra pak",
+        "alimenti"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_07",
+      "paragraph_id": 32,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 55,
+      "term_list": [
+        "materiali",
+        "materiali"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 55,
+      "term_list": [
+        "materiali",
+        "materiali"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 59,
+      "sentence_id": 10,
+      "term_list": [
+        "indifferenziato porta",
+        "porta",
+        "indifferenziato porta",
+        "porta"
+      ]
+    },
+    {
+      "document_id": "doc_caserta_02",
+      "paragraph_id": 59,
+      "sentence_id": 10,
+      "term_list": [
+        "indifferenziato porta",
+        "porta",
+        "indifferenziato porta",
+        "porta"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_28",
+      "paragraph_id": 25,
+      "sentence_id": 2,
+      "term_list": [
+        "busta"
+      ]
+    },
+    {
+      "document_id": "doc_fisciano_02",
+      "paragraph_id": 6,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 18,
+      "sentence_id": 10,
+      "term_list": [
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 56,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_06",
+      "paragraph_id": 3,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_16",
+      "paragraph_id": 1,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 6,
+      "sentence_id": 3,
+      "term_list": [
+        "modalità",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 12,
+      "sentence_id": 15,
+      "term_list": [
+        "raccolta",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 12,
+      "sentence_id": 15,
+      "term_list": [
+        "raccolta",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 15,
+      "sentence_id": 3,
+      "term_list": [
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 15,
+      "sentence_id": 3,
+      "term_list": [
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone",
+        "mercoledì",
+        "rifiuti organici",
+        "carta e cartone"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_28",
+      "paragraph_id": 46,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_fisciano_02",
+      "paragraph_id": 6,
+      "sentence_id": 18,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 10,
+      "sentence_id": 7,
+      "term_list": [
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 10,
+      "sentence_id": 7,
+      "term_list": [
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 10,
+      "sentence_id": 7,
+      "term_list": [
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 10,
+      "sentence_id": 7,
+      "term_list": [
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale",
+        "domenica",
+        "rifiuti organici",
+        "carta e cartone",
+        "vetro",
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "doc_fisciano_02",
+      "paragraph_id": 10,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_03",
+      "paragraph_id": 2,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 11,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_caserta_06",
+      "paragraph_id": 16,
+      "sentence_id": 1,
+      "term_list": [
+        "conferimento",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 18,
+      "sentence_id": 0,
+      "term_list": [
+        "ingombranti",
+        "raee",
+        "ingombranti",
+        "raee"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 18,
+      "sentence_id": 0,
+      "term_list": [
+        "ingombranti",
+        "raee",
+        "ingombranti",
+        "raee"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_10",
+      "paragraph_id": 56,
+      "sentence_id": 2,
+      "term_list": [
+        "utenze non domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 20,
+      "term_list": [
+        "plastica",
+        "ccr",
+        "plastica",
+        "ccr"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 20,
+      "term_list": [
+        "plastica",
+        "ccr",
+        "plastica",
+        "ccr"
+      ]
+    },
+    {
+      "document_id": "doc_fisciano_02",
+      "paragraph_id": 6,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 9,
+      "sentence_id": 2,
+      "term_list": [
+        "frazione organica",
+        "giorni",
+        "frazione organica",
+        "giorni"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 9,
+      "sentence_id": 2,
+      "term_list": [
+        "frazione organica",
+        "giorni",
+        "frazione organica",
+        "giorni"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_05",
+      "paragraph_id": 5,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 12,
+      "sentence_id": 13,
+      "term_list": [
+        "rifiuti",
+        "raccolta differenziata",
+        "comune",
+        "rifiuti",
+        "raccolta differenziata",
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_06",
+      "paragraph_id": 12,
+      "sentence_id": 13,
+      "term_list": [
+        "rifiuti",
+        "raccolta differenziata",
+        "comune",
+        "rifiuti",
+        "raccolta differenziata",
+        "comune"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 9,
+      "sentence_id": 1,
+      "term_list": [
+        "utenze non domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_agropoli_09",
+      "paragraph_id": 11,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 8,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sorrento_25",
+      "paragraph_id": 4,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_agropoli_13",
+      "paragraph_id": 1,
+      "sentence_id": 14,
+      "term_list": [
+        "giorno"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 6,
+      "sentence_id": 9,
+      "term_list": [
+        "legno"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 29,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 10,
+      "sentence_id": 0,
+      "term_list": [
+        "giorni",
+        "conferimento",
+        "raccolta",
+        "utenze non domestiche",
+        "giorni",
+        "conferimento",
+        "raccolta",
+        "utenze non domestiche",
+        "giorni",
+        "conferimento",
+        "raccolta",
+        "utenze non domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 10,
+      "sentence_id": 0,
+      "term_list": [
+        "giorni",
+        "conferimento",
+        "raccolta",
+        "utenze non domestiche",
+        "giorni",
+        "conferimento",
+        "raccolta",
+        "utenze non domestiche",
+        "giorni",
+        "conferimento",
+        "raccolta",
+        "utenze non domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_praiano_05",
+      "paragraph_id": 10,
+      "sentence_id": 0,
+      "term_list": [
+        "giorni",
+        "conferimento",
+        "raccolta",
+        "utenze non domestiche",
+        "giorni",
+        "conferimento",
+        "raccolta",
+        "utenze non domestiche",
+        "giorni",
+        "conferimento",
+        "raccolta",
+        "utenze non domestiche"
+      ]
+    },
+    {
+      "document_id": "doc_pellezzano_01",
+      "paragraph_id": 14,
+      "sentence_id": 0,
+      "term_list": [
+        "richiesta",
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "doc_sorrento_20",
+      "paragraph_id": 1,
+      "sentence_id": 3,
+      "term_list": [
+        "raccolta differenziata",
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 8,
+      "sentence_id": 9,
+      "term_list": [
+        "centro di raccolta",
+        "utenza",
+        "centro di raccolta",
+        "utenza",
+        "centro di raccolta",
+        "utenza"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 8,
+      "sentence_id": 9,
+      "term_list": [
+        "centro di raccolta",
+        "utenza",
+        "centro di raccolta",
+        "utenza",
+        "centro di raccolta",
+        "utenza"
+      ]
+    },
+    {
+      "document_id": "doc_nola_02",
+      "paragraph_id": 8,
+      "sentence_id": 9,
+      "term_list": [
+        "centro di raccolta",
+        "utenza",
+        "centro di raccolta",
+        "utenza",
+        "centro di raccolta",
+        "utenza"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 11,
+      "term_list": [
+        "raee",
+        "servizio",
+        "ingombranti",
+        "raee",
+        "servizio",
+        "ingombranti",
+        "raee",
+        "servizio",
+        "ingombranti"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 11,
+      "term_list": [
+        "raee",
+        "servizio",
+        "ingombranti",
+        "raee",
+        "servizio",
+        "ingombranti",
+        "raee",
+        "servizio",
+        "ingombranti"
+      ]
+    },
+    {
+      "document_id": "doc_salerno_05",
+      "paragraph_id": 24,
+      "sentence_id": 11,
+      "term_list": [
+        "raee",
+        "servizio",
+        "ingombranti",
+        "raee",
+        "servizio",
+        "ingombranti",
+        "raee",
+        "servizio",
+        "ingombranti"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 5,
+      "sentence_id": 3,
+      "term_list": [
+        "imballaggi in plastica"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 17,
+      "sentence_id": 17,
+      "term_list": [
+        "bottiglie"
+      ]
+    },
+    {
+      "document_id": "doc_francavillais_09",
+      "paragraph_id": 1,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_sarno_15",
+      "paragraph_id": 5,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santagnello_16",
+      "paragraph_id": 38,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 6,
+      "sentence_id": 3,
+      "term_list": [
+        "alimenti"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_15",
+      "paragraph_id": 11,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 21,
+      "sentence_id": 1,
+      "term_list": [
+        "gestore",
+        "contenitori",
+        "servizio",
+        "centro di raccolta",
+        "gestore",
+        "contenitori",
+        "servizio",
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_poggiomarino_12",
+      "paragraph_id": 21,
+      "sentence_id": 1,
+      "term_list": [
+        "gestore",
+        "contenitori",
+        "servizio",
+        "centro di raccolta",
+        "gestore",
+        "contenitori",
+        "servizio",
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "doc_nocerainferiore_06",
+      "paragraph_id": 4,
+      "sentence_id": 3,
+      "term_list": [
+        "mercoledì"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_21",
+      "paragraph_id": 20,
+      "sentence_id": 5,
+      "term_list": [
+        "giovedì"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 50,
+      "sentence_id": 11,
+      "term_list": [
+        "alluminio",
+        "banda stagnata"
+      ]
+    },
+    {
+      "document_id": "doc_prataprincipatodiultra_02",
+      "paragraph_id": 4,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_salerno_12",
+      "paragraph_id": 5,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_eboli_02",
+      "paragraph_id": 28,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_poggiomarino_01",
+      "paragraph_id": 8,
+      "sentence_id": 4,
+      "term_list": [
+        "imballaggi in plastica"
+      ]
+    },
+    {
+      "document_id": "doc_francavillais_02",
+      "paragraph_id": 24,
+      "sentence_id": 0,
+      "term_list": []
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 2,
+      "sentence_id": 5,
+      "term_list": [
+        "vetro",
+        "secchiello",
+        "domenica",
+        "mercoledì",
+        "vetro",
+        "secchiello",
+        "domenica",
+        "mercoledì"
+      ]
+    },
+    {
+      "document_id": "doc_capaccio_10",
+      "paragraph_id": 2,
+      "sentence_id": 5,
+      "term_list": [
+        "vetro",
+        "secchiello",
+        "domenica",
+        "mercoledì",
+        "vetro",
+        "secchiello",
+        "domenica",
+        "mercoledì"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 12,
+      "sentence_id": 1,
+      "term_list": [
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 12,
+      "sentence_id": 1,
+      "term_list": [
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 12,
+      "sentence_id": 1,
+      "term_list": [
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 12,
+      "sentence_id": 1,
+      "term_list": [
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 12,
+      "sentence_id": 1,
+      "term_list": [
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 12,
+      "sentence_id": 1,
+      "term_list": [
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata"
+      ]
+    },
+    {
+      "document_id": "doc_santegidiodelmontealbino_03",
+      "paragraph_id": 12,
+      "sentence_id": 1,
+      "term_list": [
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata",
+        "imballaggi in plastica",
+        "rifiuti",
+        "alluminio",
+        "banda stagnata"
+      ]
+    }
+  ]
+}

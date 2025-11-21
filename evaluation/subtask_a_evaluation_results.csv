@@ -1,0 +1,15 @@
+file_name,micro_precision,micro_recall,micro_f1,type_precision,type_recall,type_f1
+bert_extended_3e-5_cleaned,0.758,0.71,0.733,0.714,0.649,0.68
+bert_token_classification_extended_2e-5_changed,0.732,0.71,0.721,0.677,0.649,0.662
+ensemble_bert_spacy_dictfilter,0.739,0.696,0.717,0.688,0.62,0.652
+reranked_llm,0.759,0.656,0.704,0.73,0.603,0.661
+bert_token_classification_extended_clean,0.725,0.672,0.697,0.679,0.595,0.634
+bert_token_classification_extended_3e-5,0.709,0.681,0.695,0.648,0.607,0.627
+bert_token_classification_extended,0.708,0.672,0.689,0.655,0.595,0.623
+ensemble_bert_spacy,0.64,0.703,0.67,0.545,0.628,0.583
+reranked_llm_2,0.813,0.539,0.648,0.75,0.521,0.615
+llm_few_shot,0.463,0.665,0.546,0.404,0.719,0.517
+llm_zero_shot,0.481,0.63,0.545,0.408,0.653,0.502
+vanilla,0.428,0.738,0.542,0.657,0.562,0.606
+spacy_trained,0.573,0.333,0.421,0.512,0.364,0.425
+spacy_term_extraction_patters,0.051,0.373,0.09,0.041,0.417,0.074
