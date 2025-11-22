@@ -1,0 +1,29 @@
+file_name,micro_precision,micro_recall,micro_f1,type_precision,type_recall,type_f1
+ensemble_bert_2e-5_change_spacy_dictfilter_refined -> spacy trained con modello (python -m spacy download it_core_news_md)
+ensemble_bert_2e-5_changed_spacy_dictfilter -> spacy trained con modello python -m spacy download it_core_news_sm)
+ensemble_bert_2e-5_changed_reranked_llm --> spacy trained it_core_news_sm + reranking old
+ensemble_bert_2e-5_change_spacy_baseline_dictfilter --> bert + spacy baseline it_core_news_sm
+ensemble_bert_2e-5_changed_reranked_llm_refined --> bert + spacy trained con modello it_core_news_sm + reranking refined (piu precision (aggiunta termini da FP))
+ensemble_bert_2e-5_cased_reranked_llm --> modello BERT cased + spacy trained it_core_news_sm + reranking old
+ensemble_bert_2e-5_cased_spacy_dictfilter --> modello BERT cased + spacy trained it_core_news_sm 
+
+MODELLI BERT tuning
+bert_2e-5_changed_cleaned,0.758,0.71,0.733,0.714,0.649,0.68
+bert_2e-5_changed,0.732,0.71,0.721,0.677,0.649,0.662
+bert_2e-5_cased_cleaned,0.716,0.71,0.713,0.63,0.64,0.635
+bert_3e-5_cleaned,0.734,0.681,0.707,0.684,0.607,0.643
+bert_2e-5_cased,0.691,0.71,0.7,0.594,0.64,0.616
+bert_clean,0.725,0.672,0.697,0.679,0.595,0.634
+bert_3e-5,0.709,0.681,0.695,0.648,0.607,0.627
+bert,0.708,0.672,0.689,0.655,0.595,0.623
+
+ensemble_bert_spacy,0.64,0.703,0.67,0.545,0.628,0.583 --> bert del prof + spacy trained sm (prof)
+
+LLM TEST
+llm_few_shot,0.463,0.665,0.546,0.404,0.719,0.517
+llm_zero_shot,0.481,0.63,0.545,0.408,0.653,0.502
+vanilla,0.428,0.738,0.542,0.657,0.562,0.606
+spacy_trained_refined,0.591,0.353,0.442,0.554,0.38,0.451
+spacy_trained,0.573,0.333,0.421,0.512,0.364,0.425
+spacy_baseline,0.502,0.35,0.413,0.701,0.368,0.482
+spacy_term_extraction_patters,0.051,0.373,0.09,0.041,0.417,0.074
