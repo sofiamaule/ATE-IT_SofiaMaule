@@ -1,10 +1,14 @@
 file_name,micro_precision,micro_recall,micro_f1,type_precision,type_recall,type_f1
 ensemble_bert_2e-5_changed_spacy_dictfilter,0.769,0.729,0.749,0.728,0.674,0.7
 ensemble_bert_2e-5_changed_reranked_llm,0.769,0.723,0.745,0.73,0.669,0.698
+ensemble_bert_2e-5_cased_spacy_dictfilter,0.728,0.741,0.734,0.644,0.674,0.659
+ensemble_bert_2e-5_cased_reranked_llm,0.756,0.714,0.734,0.695,0.669,0.682
 bert_2e-5_changed_cleaned,0.758,0.71,0.733,0.714,0.649,0.68
 bert_2e-5_changed,0.732,0.71,0.721,0.677,0.649,0.662
 ensemble_bert_2e-5_changed_spacy_dictfilter2,0.688,0.756,0.72,0.667,0.702,0.684
+bert_2e-5_cased_cleaned,0.716,0.71,0.713,0.63,0.64,0.635
 bert_3e-5_cleaned,0.734,0.681,0.707,0.684,0.607,0.643
+bert_2e-5_cased,0.691,0.71,0.7,0.594,0.64,0.616
 bert_clean,0.725,0.672,0.697,0.679,0.595,0.634
 bert_3e-5,0.709,0.681,0.695,0.648,0.607,0.627
 bert,0.708,0.672,0.689,0.655,0.595,0.623
