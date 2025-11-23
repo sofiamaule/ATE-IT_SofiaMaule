@@ -1,5 +1,5 @@
 file_name,micro_precision,micro_recall,micro_f1,type_precision,type_recall,type_f1
-ensemble_bert_2e-5_change_spacy_dictfilter_refined -> spacy trained con modello (python -m spacy download it_core_news_md)
+ensemble_bert_2e-5_change_spacy_dictfilter_refined -> BERT spacy trained con modello (python -m spacy download it_core_news_md)
 ensemble_bert_2e-5_changed_spacy_dictfilter -> spacy trained con modello python -m spacy download it_core_news_sm)
 ensemble_bert_2e-5_changed_reranked_llm --> spacy trained it_core_news_sm + reranking old
 ensemble_bert_2e-5_change_spacy_baseline_dictfilter --> bert + spacy baseline it_core_news_sm
@@ -8,8 +8,8 @@ ensemble_bert_2e-5_cased_reranked_llm --> modello BERT cased + spacy trained it_
 ensemble_bert_2e-5_cased_spacy_dictfilter --> modello BERT cased + spacy trained it_core_news_sm 
 
 MODELLI BERT tuning
-bert_2e-5_changed_cleaned,0.758,0.71,0.733,0.714,0.649,0.68
-bert_2e-5_changed,0.732,0.71,0.721,0.677,0.649,0.662
+bert_2e-5_uncased_cleaned,0.758,0.71,0.733,0.714,0.649,0.68
+bert_2e-5_uncased,0.732,0.71,0.721,0.677,0.649,0.662
 bert_2e-5_cased_cleaned,0.716,0.71,0.713,0.63,0.64,0.635
 bert_3e-5_cleaned,0.734,0.681,0.707,0.684,0.607,0.643
 bert_2e-5_cased,0.691,0.71,0.7,0.594,0.64,0.616
