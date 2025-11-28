@@ -23,19 +23,19 @@ The final ensemble for Subtask A is:
 Token classification with labels B-TERM / I-TERM / O
 Fine-tuned on the ATE-IT training set (and train+dev in the final run)
 Implemented in:
-src/bert_term_extraction_extended.ipynb
-src/final_train_dev_training/ (final training on train+dev)
+src/bert_term_extraction.ipynb
+src/final_train_dev_training/bert_term_extraction_train_dev.ipynb (final training on train+dev)
 
-- spaCy trained extractor
+- SpaCy trained extractor
 Custom spaCy pipeline trained as a sequence labeller / NER-like term tagger
 Uses POS, morphology and context from it_core_news_md as features
 
 Implemented in:
 src/spacy_term_extraction.ipynb
+src/final_train_dev_training/spacy_term_extraction_train_dev.ipynb
 
-Vocabulary from training set
+- Vocabulary from training set
 A single vocabulary is built from the gold terms in the training data
-
 Used to:
 normalise and canonicalise terms
 filter very noisy candidates
@@ -45,9 +45,12 @@ slightly favour terms that appear in the training vocabulary
 Normalisation (lower-casing, trimming punctuation, collapsing spaces)
 De-duplication at sentence level
 Removal of clearly truncated spans
+Removal of nested terms
 
 Implemented in:
-src/postprocessing/clean_bert_terms.ipynb
+src/postprocessing/clean_terms.ipynb
+src/postprocessing/clean_final_submission.ipynb
+
 
 
 - LLM-based reranking (optional but not used in final system)
@@ -66,7 +69,7 @@ src/llm_zero_shot_term_extraction.ipynb
 Predictions are saved in src/predictions/ (JSON format consistent with the ATE-IT official evaluation script).
 
 ### Baselines and Ablations
-Several baselines and ablation models are also included:
+Several baselines and ablation models are also included, that where later not considered for their lower performances:
 
 - Vanilla term extraction
 src/vanilla_term_extraction.ipynb
@@ -78,7 +81,7 @@ src/tfidf_POS_heuristic_extraction.ipynb
 src/spacy_term_extraction_patterns.ipynb
 
 ### Results
-Results and ablation tables are stored in:
+Results are stored in:
 evaluation/ablation_results.csv
 evaluation/subtask_a_evaluation_results.csv
 evaluation/subtask_a_evaluation.ipynb
