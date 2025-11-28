@@ -86,9 +86,10 @@ evaluation/subtask_a_evaluation.ipynb
 
 ### Installation
 python -m venv .venv
-# Linux / macOS
+
+-  Linux / macOS
 source .venv/bin/activate
-# Windows
+-  Windows
 .venv\Scripts\activate
 
 - Install dependencies
