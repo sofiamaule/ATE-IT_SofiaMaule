@@ -894,7 +894,6 @@
       "term_list": [
         "stazioni ecologiche",
         "portare",
-        "rifiuti",
         "cassonetti",
         "consegnare",
         "rifiuti accettati",
@@ -2383,7 +2382,9 @@
       "document_id": "bagnacavallo_01",
       "paragraph_id": 2,
       "sentence_id": 2,
-      "term_list": []
+      "term_list": [
+        "servizio"
+      ]
     },
     {
       "document_id": "bagnacavallo_01",
@@ -2441,7 +2442,9 @@
       "document_id": "bagnacavallo_01",
       "paragraph_id": 6,
       "sentence_id": 11,
-      "term_list": []
+      "term_list": [
+        "servizio"
+      ]
     },
     {
       "document_id": "bagnacavallo_01",
@@ -2794,7 +2797,6 @@
       "paragraph_id": 1,
       "sentence_id": 2,
       "term_list": [
-        "modalità di conferimento",
         "indumenti dismessi"
       ]
     },
@@ -3426,7 +3428,7 @@
       "paragraph_id": 1,
       "sentence_id": 57,
       "term_list": [
-        "attrezzature per la raccolta domiciliare"
+        "raccolta domiciliare"
       ]
     },
     {
@@ -3597,6 +3599,7 @@
       "paragraph_id": 3,
       "sentence_id": 7,
       "term_list": [
+        "gestione",
         "quali"
       ]
     },
@@ -3857,7 +3860,6 @@
       "paragraph_id": 6,
       "sentence_id": 45,
       "term_list": [
-        "attività di bollettazione",
         "avvisi di pagamento"
       ]
     },
@@ -3895,7 +3897,6 @@
       "sentence_id": 50,
       "term_list": [
         "raccolta e trasporto",
-        "raccolta",
         "trasporto dei rifiuti urbani",
         "impianti",
         "smaltimento",
@@ -3925,8 +3926,7 @@
       "sentence_id": 53,
       "term_list": [
         "utenti",
-        "gestore",
-        "servizio di gestione dei rifiuti urbani"
+        "gestore"
       ]
     },
     {
@@ -4272,8 +4272,7 @@
       "paragraph_id": 5,
       "sentence_id": 12,
       "term_list": [
-        "utenza",
-        "avvisi di pagamento"
+        "utenza"
       ]
     },
     {
@@ -4632,7 +4631,6 @@
       "sentence_id": 38,
       "term_list": [
         "prefato ccr",
-        "ccr",
         "piano industriale dei servizi di igiene urbana"
       ]
     },
@@ -4885,7 +4883,6 @@
         "utenze non domestiche",
         "rifiuti urbani",
         "conferire",
-        "rifiuti",
         "conferimento di rifiuti"
       ]
     },
@@ -5039,7 +5036,7 @@
       "paragraph_id": 5,
       "sentence_id": 18,
       "term_list": [
-        "modalità di conferimento"
+        "modalita di conferimento"
       ]
     },
     {
@@ -5291,7 +5288,7 @@
       "paragraph_id": 3,
       "sentence_id": 19,
       "term_list": [
-        "sacchetti trasparenti"
+        "sacchetti"
       ]
     },
     {
@@ -5368,7 +5365,8 @@
       "sentence_id": 29,
       "term_list": [
         "verde",
-        "essere conferito",
+        "essere",
+        "conferito",
         "centro di raccolta"
       ]
     },
@@ -5891,9 +5889,7 @@
       "document_id": "coriglianorossano_01",
       "paragraph_id": 1,
       "sentence_id": 79,
-      "term_list": [
-        "avvisi di pagamento"
-      ]
+      "term_list": []
     },
     {
       "document_id": "coriglianorossano_01",
@@ -6091,7 +6087,6 @@
       "paragraph_id": 3,
       "sentence_id": 107,
       "term_list": [
-        "rifiuti indifferenziati",
         "rifiuti domestici"
       ]
     },
@@ -6120,7 +6115,6 @@
         "rifiuti della manutenzione del verde pubblico",
         "sfalci d",
         "potature di alberi",
-        "rifiuti",
         "pulizia dei mercati"
       ]
     },

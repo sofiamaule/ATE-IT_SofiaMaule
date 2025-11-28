@@ -45,7 +45,6 @@
       "sentence_id": 2,
       "term_list": [
         "servizio di raccolta dei rifiuti derivanti",
-        "servizio di raccolta dei rifiuti",
         "sfalci e potature"
       ]
     },
@@ -354,8 +353,7 @@
         "cartoni",
         "plastica",
         "acciaio",
-        "alluminio",
-        "vanno conferiti"
+        "alluminio"
       ]
     },
     {
@@ -1109,7 +1107,7 @@
       "sentence_id": 1,
       "term_list": [
         "utenze domestiche",
-        "svuotamento",
+        "svuotamento dei carrellati",
         "carrellati condomini"
       ]
     },
@@ -1431,8 +1429,7 @@
       "term_list": [
         "materiale conferito",
         "sito",
-        "contenitori adibiti alla raccolta delle frazioni di rifiuti",
-        "frazioni di rifiuti"
+        "contenitori adibiti alla raccolta delle frazioni di rifiuti"
       ]
     },
     {
@@ -2242,8 +2239,7 @@
       "paragraph_id": 1,
       "sentence_id": 7,
       "term_list": [
-        "materiale differenziabile",
-        "materiale"
+        "materiale differenziabile"
       ]
     },
     {
@@ -2608,7 +2604,7 @@
       "sentence_id": 2,
       "term_list": [
         "alluminio",
-        "banda stagnata",
+        "banda",
         "latta",
         "vanno conferiti",
         "imballaggi in plastica",
@@ -2622,8 +2618,7 @@
       "term_list": [
         "metallo",
         "alluminio",
-        "lattine",
-        "banda stagnata"
+        "lattine"
       ]
     },
     {
@@ -2771,8 +2766,7 @@
       "paragraph_id": 38,
       "sentence_id": 22,
       "term_list": [
-        "superficie produttiva di rifiuti speciali",
-        "rifiuti speciali"
+        "superficie produttiva di rifiuti speciali"
       ]
     },
     {
@@ -3973,8 +3967,7 @@
       "sentence_id": 3,
       "term_list": [
         "percentuale di raccolta differenziata",
-        "plastica mono",
-        "raccolta differenziata"
+        "plastica mono"
       ]
     },
     {
@@ -4128,8 +4121,7 @@
         "alluminio",
         "metallo",
         "latta",
-        "sacco azzurro",
-        "banda stagnata"
+        "sacco azzurro"
       ]
     }
   ]

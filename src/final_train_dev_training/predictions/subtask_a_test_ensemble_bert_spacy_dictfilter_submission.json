@@ -894,7 +894,6 @@
       "term_list": [
         "stazioni ecologiche",
         "portare",
-        "rifiuti",
         "cassonetti",
         "consegnare",
         "rifiuti accettati",
@@ -3895,7 +3894,6 @@
       "sentence_id": 50,
       "term_list": [
         "raccolta e trasporto",
-        "raccolta",
         "trasporto dei rifiuti urbani",
         "impianti",
         "smaltimento",
@@ -4632,7 +4630,6 @@
       "sentence_id": 38,
       "term_list": [
         "prefato ccr",
-        "ccr",
         "piano industriale dei servizi di igiene urbana"
       ]
     },
@@ -4885,7 +4882,6 @@
         "utenze non domestiche",
         "rifiuti urbani",
         "conferire",
-        "rifiuti",
         "conferimento di rifiuti"
       ]
     },
@@ -6120,7 +6116,6 @@
         "rifiuti della manutenzione del verde pubblico",
         "sfalci d",
         "potature di alberi",
-        "rifiuti",
         "pulizia dei mercati"
       ]
     },

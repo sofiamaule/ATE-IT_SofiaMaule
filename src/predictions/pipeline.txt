@@ -1,0 +1,12 @@
+final_noclean_cleanedAll_submission
+- BERT: 
+- SPACY MD
+- MERGE BERT+SPACY+DICT: src\bert_spacy_term_extraction.ipynb
+- CLEAN
+- REMOVE NESTED TERMS
+
+final_cleaned_submission
+- BERT CLEANED 
+- SPACY MD
+- MERGE BERT cleaned+SPACY+DICT: src\bert_spacy_term_extraction.ipynb
+- REMOVE NESTED TERMS

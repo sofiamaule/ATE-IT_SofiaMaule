@@ -12,7 +12,7 @@
       "sentence_id": 1,
       "term_list": [
         "gestione dei centri di raccolta comunali",
-        "centri di raccolta"
+        "centri di raccolta dei rifiuti urbani"
       ]
     },
     {
@@ -135,16 +135,14 @@
       "paragraph_id": 4,
       "sentence_id": 4,
       "term_list": [
-        "abbandono del"
+        "abbandono"
       ]
     },
     {
       "document_id": "doc_caserta_06",
       "paragraph_id": 6,
       "sentence_id": 2,
-      "term_list": [
-        "gestione del centro di raccolta"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_agropoli_09",
@@ -164,9 +162,7 @@
       "document_id": "doc_poggiomarino_02",
       "paragraph_id": 15,
       "sentence_id": 0,
-      "term_list": [
-        "non riciclabile"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_caserta_06",
@@ -195,7 +191,7 @@
       "paragraph_id": 5,
       "sentence_id": 23,
       "term_list": [
-        "dichiarazione di"
+        "certificati"
       ]
     },
     {
@@ -292,9 +288,7 @@
       "document_id": "doc_sorrento_17",
       "paragraph_id": 3,
       "sentence_id": 5,
-      "term_list": [
-        "www.facebook.com/comunesorrento"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_santegidiodelmontealbino_03",
@@ -342,7 +336,9 @@
       "sentence_id": 6,
       "term_list": [
         "cartoni",
-        "plastica"
+        "vanno conferiti",
+        "plastica",
+        "alluminio"
       ]
     },
     {
@@ -358,7 +354,7 @@
       "paragraph_id": 6,
       "sentence_id": 4,
       "term_list": [
-        "scarti e avanzi"
+        "scarti e avanzi di frutta, ortaggi"
       ]
     },
     {
@@ -420,9 +416,7 @@
       "document_id": "doc_francavillais_09",
       "paragraph_id": 23,
       "sentence_id": 7,
-      "term_list": [
-        "90 micron"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_pellezzano_01",
@@ -435,9 +429,8 @@
       "paragraph_id": 2,
       "sentence_id": 27,
       "term_list": [
-        "materiali finiti",
-        "non differenziabile",
-        "spazzatura centinaia"
+        "sacchetti",
+        "non differenziabile"
       ]
     },
     {
@@ -451,6 +444,7 @@
       "paragraph_id": 15,
       "sentence_id": 4,
       "term_list": [
+        "depositare",
         "rifiuti",
         "busta",
         "bidoni carrellati"
@@ -472,10 +466,7 @@
       "document_id": "doc_sorrento_20",
       "paragraph_id": 1,
       "sentence_id": 5,
-      "term_list": [
-        "campeggi",
-        "aree di sosta"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_capaccio_15",
@@ -490,7 +481,7 @@
       "paragraph_id": 12,
       "sentence_id": 2,
       "term_list": [
-        "responsabile del centro di raccolta"
+        "centro di raccolta"
       ]
     },
     {
@@ -516,23 +507,22 @@
       "paragraph_id": 9,
       "sentence_id": 1,
       "term_list": [
-        "abbandono di rifiuti non pericolosi e",
-        "non ingombranti"
+        "abbandono di rifiuti non pericolosi e non ingombranti"
       ]
     },
     {
       "document_id": "doc_praiano_02",
       "paragraph_id": 8,
       "sentence_id": 0,
-      "term_list": []
+      "term_list": [
+        "MULTIMATERIALE"
+      ]
     },
     {
       "document_id": "doc_capaccio_28",
       "paragraph_id": 25,
       "sentence_id": 5,
-      "term_list": [
-        "soggetto concorrente"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_nocerainferiore_06",
@@ -593,7 +583,6 @@
       "paragraph_id": 2,
       "sentence_id": 9,
       "term_list": [
-        "eliminazione",
         "campane",
         "conferimento",
         "vetro"
@@ -639,7 +628,9 @@
       "document_id": "doc_sarno_12",
       "paragraph_id": 3,
       "sentence_id": 4,
-      "term_list": []
+      "term_list": [
+        "uranio"
+      ]
     },
     {
       "document_id": "doc_sorrento_05",
@@ -657,7 +648,9 @@
       "document_id": "doc_capaccio_28",
       "paragraph_id": 14,
       "sentence_id": 6,
-      "term_list": []
+      "term_list": [
+        "attrezzature tecniche"
+      ]
     },
     {
       "document_id": "doc_poggiomarino_12",
@@ -676,7 +669,9 @@
       "paragraph_id": 2,
       "sentence_id": 28,
       "term_list": [
+        "differenziare",
         "rifiuti",
+        "campagna di comunicazione",
         "piano di raccolta"
       ]
     },
@@ -737,9 +732,7 @@
       "document_id": "doc_capaccio_28",
       "paragraph_id": 14,
       "sentence_id": 5,
-      "term_list": [
-        "concorrente"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_poggiomarino_02",
@@ -814,8 +807,7 @@
       "paragraph_id": 13,
       "sentence_id": 4,
       "term_list": [
-        "tassa sui rifiuti solidi urbani",
-        "rifiuti"
+        "tassa sui rifiuti solidi urbani"
       ]
     },
     {
@@ -859,7 +851,6 @@
       "paragraph_id": 13,
       "sentence_id": 5,
       "term_list": [
-        "rifiuti",
         "busta"
       ]
     },
@@ -869,16 +860,15 @@
       "sentence_id": 1,
       "term_list": [
         "gestione dei rifiuti urbani ed assimilati",
-        "decoro"
+        "decoro",
+        "igiene ambientale"
       ]
     },
     {
       "document_id": "doc_sarno_15",
       "paragraph_id": 5,
       "sentence_id": 20,
-      "term_list": [
-        "capacità economico"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_santegidiodelmontealbino_03",
@@ -917,7 +907,7 @@
       "paragraph_id": 13,
       "sentence_id": 2,
       "term_list": [
-        "temporaneo a speciali",
+        "contingibili",
         "gestione dei rifiuti"
       ]
     },
@@ -997,10 +987,7 @@
       "document_id": "doc_salerno_02",
       "paragraph_id": 1,
       "sentence_id": 6,
-      "term_list": [
-        "opera di materiali diversificati",
-        "riccio"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_santegidiodelmontealbino_03",
@@ -1051,9 +1038,7 @@
       "document_id": "doc_salerno_06",
       "paragraph_id": 48,
       "sentence_id": 8,
-      "term_list": [
-        "disservizi"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_salerno_06",
@@ -1080,9 +1065,7 @@
       "document_id": "doc_sorrento_15",
       "paragraph_id": 3,
       "sentence_id": 6,
-      "term_list": [
-        "www.facebook.com/comunesorrento"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_caserta_02",
@@ -1135,6 +1118,7 @@
       "paragraph_id": 4,
       "sentence_id": 4,
       "term_list": [
+        "utenti",
         "conferire",
         "rifiuti"
       ]
@@ -1149,7 +1133,9 @@
       "document_id": "doc_sorrento_10",
       "paragraph_id": 56,
       "sentence_id": 0,
-      "term_list": []
+      "term_list": [
+        "costi fissi"
+      ]
     },
     {
       "document_id": "doc_sorrento_05",
@@ -1162,7 +1148,7 @@
       "paragraph_id": 40,
       "sentence_id": 2,
       "term_list": [
-        "servizio di pronto"
+        "servizio di pronto intervento"
       ]
     },
     {
@@ -1278,7 +1264,9 @@
       "document_id": "doc_poggiomarino_12",
       "paragraph_id": 17,
       "sentence_id": 65,
-      "term_list": []
+      "term_list": [
+        "luminose"
+      ]
     },
     {
       "document_id": "doc_praiano_13",
@@ -1296,16 +1284,14 @@
       "document_id": "doc_capaccio_10",
       "paragraph_id": 17,
       "sentence_id": 0,
-      "term_list": [
-        "CONFERIRE"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_poggiomarino_12",
       "paragraph_id": 17,
       "sentence_id": 5,
       "term_list": [
-        "carta"
+        "carta chimica"
       ]
     },
     {
@@ -1330,7 +1316,9 @@
       "document_id": "doc_capaccio_15",
       "paragraph_id": 7,
       "sentence_id": 2,
-      "term_list": []
+      "term_list": [
+        "attrezzature"
+      ]
     },
     {
       "document_id": "doc_salerno_06",
@@ -1361,7 +1349,8 @@
       "paragraph_id": 10,
       "sentence_id": 4,
       "term_list": [
-        "cernita di materiale conferito",
+        "cernita",
+        "conferito",
         "contenitori adibiti alla raccolta",
         "frazioni di rifiuti"
       ]
@@ -1370,9 +1359,7 @@
       "document_id": "doc_gragnano_02",
       "paragraph_id": 3,
       "sentence_id": 0,
-      "term_list": [
-        "servizio di svuotamento"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_capaccio_28",
@@ -1397,7 +1384,6 @@
       "paragraph_id": 13,
       "sentence_id": 0,
       "term_list": [
-        "convertito",
         "tariffe"
       ]
     },
@@ -1419,7 +1405,9 @@
       "document_id": "doc_caserta_06",
       "paragraph_id": 14,
       "sentence_id": 1,
-      "term_list": []
+      "term_list": [
+        "uomo"
+      ]
     },
     {
       "document_id": "doc_caserta_02",
@@ -1677,7 +1665,8 @@
       "paragraph_id": 2,
       "sentence_id": 1,
       "term_list": [
-        "sistema di raccolta differenziata dei rifiuti"
+        "sistema di raccolta differenziata dei rifiuti porta",
+        "a-porta"
       ]
     },
     {
@@ -1735,7 +1724,6 @@
       "paragraph_id": 3,
       "sentence_id": 3,
       "term_list": [
-        "sacchetti",
         "utenze domestiche",
         "utenze commerciali"
       ]
@@ -1824,7 +1812,7 @@
       "paragraph_id": 15,
       "sentence_id": 5,
       "term_list": [
-        "contenitori per la raccolta dei rifiuti"
+        "contenitori per la raccolta dei rifiuti urbani macerie provenienti da lavori edili"
       ]
     },
     {
@@ -1838,9 +1826,10 @@
       "paragraph_id": 2,
       "sentence_id": 0,
       "term_list": [
-        "rifiuti",
+        "rifiuti raccolti",
         "buste di multimateriale",
-        "bidone di plastica"
+        "bidone di plastica",
+        "pneumatici"
       ]
     },
     {
@@ -1848,15 +1837,16 @@
       "paragraph_id": 5,
       "sentence_id": 22,
       "term_list": [
-        "concorrente",
-        "sistema di gestione"
+        "sistema di gestione ambientale"
       ]
     },
     {
       "document_id": "doc_salerno_03",
       "paragraph_id": 2,
       "sentence_id": 12,
-      "term_list": []
+      "term_list": [
+        "portatrice"
+      ]
     },
     {
       "document_id": "doc_santagnello_16",
@@ -1890,8 +1880,7 @@
       "paragraph_id": 24,
       "sentence_id": 16,
       "term_list": [
-        "carta",
-        "compostabili"
+        "bioplastiche"
       ]
     },
     {
@@ -1925,7 +1914,6 @@
       "paragraph_id": 20,
       "sentence_id": 0,
       "term_list": [
-        "temporaneo a speciali",
         "gestione dei rifiuti",
         "attività produttive"
       ]
@@ -1979,6 +1967,7 @@
       "paragraph_id": 30,
       "sentence_id": 0,
       "term_list": [
+        "utentì",
         "servizio rifiuti"
       ]
     },
@@ -2014,7 +2003,7 @@
       "sentence_id": 1,
       "term_list": [
         "raccolta",
-        "oli esausti"
+        "esausti"
       ]
     },
     {
@@ -2033,9 +2022,7 @@
       "document_id": "doc_francavillais_09",
       "paragraph_id": 15,
       "sentence_id": 0,
-      "term_list": [
-        "variante"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_sorrento_19",
@@ -2124,7 +2111,7 @@
       "paragraph_id": 6,
       "sentence_id": 0,
       "term_list": [
-        "gestione dei rifiuti"
+        "gestione dei rifiuti urbani"
       ]
     },
     {
@@ -2145,8 +2132,7 @@
       "sentence_id": 7,
       "term_list": [
         "sistema di raccolta",
-        "materiale differenziabile",
-        "materiale da riciclare"
+        "materiale differenziabile"
       ]
     },
     {
@@ -2154,10 +2140,8 @@
       "paragraph_id": 60,
       "sentence_id": 1,
       "term_list": [
-        "variabile",
         "concorrente",
-        "concorrente",
-        "conveniente"
+        "concorrente"
       ]
     },
     {
@@ -2279,7 +2263,9 @@
       "document_id": "doc_nocerainferiore_06",
       "paragraph_id": 10,
       "sentence_id": 1,
-      "term_list": []
+      "term_list": [
+        "rifiuti"
+      ]
     },
     {
       "document_id": "doc_nocerainferiore_06",
@@ -2315,7 +2301,9 @@
       "document_id": "doc_praiano_02",
       "paragraph_id": 10,
       "sentence_id": 3,
-      "term_list": []
+      "term_list": [
+        "carta"
+      ]
     },
     {
       "document_id": "doc_santagnello_19",
@@ -2407,9 +2395,7 @@
       "document_id": "doc_salerno_05",
       "paragraph_id": 24,
       "sentence_id": 7,
-      "term_list": [
-        "plastica"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_nocerainferiore_06",
@@ -2434,7 +2420,7 @@
       "paragraph_id": 1,
       "sentence_id": 3,
       "term_list": [
-        "servizio di igiene urbana"
+        "igiene urbana"
       ]
     },
     {
@@ -2495,9 +2481,7 @@
       "document_id": "doc_pellezzano_02",
       "paragraph_id": 16,
       "sentence_id": 0,
-      "term_list": [
-        "D.lgs.n"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_santegidiodelmontealbino_03",
@@ -2505,9 +2489,7 @@
       "sentence_id": 2,
       "term_list": [
         "alluminio",
-        "banda stagnata",
         "vanno conferiti",
-        "residui",
         "imballaggi in plastica",
         "sacco"
       ]
@@ -2518,7 +2500,7 @@
       "sentence_id": 1,
       "term_list": [
         "alluminio",
-        "banda stagnata",
+        "lattine",
         "alluminio"
       ]
     },
@@ -2544,23 +2526,21 @@
       "document_id": "doc_capaccio_10",
       "paragraph_id": 17,
       "sentence_id": 9,
-      "term_list": [
-        "grassi"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_santegidiodelmontealbino_03",
       "paragraph_id": 33,
       "sentence_id": 10,
-      "term_list": []
+      "term_list": [
+        "trapani"
+      ]
     },
     {
       "document_id": "doc_salerno_12",
       "paragraph_id": 5,
       "sentence_id": 91,
-      "term_list": [
-        "idraulico"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_battipaglia_13",
@@ -2603,7 +2583,8 @@
       "paragraph_id": 5,
       "sentence_id": 0,
       "term_list": [
-        "gestione dei rifiuti urbani"
+        "gestione dei rifiuti urbani",
+        "modalità del servizio di raccolta e trasporto dei rifiuti urbani"
       ]
     },
     {
@@ -2631,8 +2612,7 @@
       "paragraph_id": 12,
       "sentence_id": 5,
       "term_list": [
-        "utenza",
-        "utenti"
+        "utenza"
       ]
     },
     {
@@ -2681,7 +2661,6 @@
       "paragraph_id": 5,
       "sentence_id": 1,
       "term_list": [
-        "Olii esausti",
         "essere conferiti"
       ]
     },
@@ -2769,9 +2748,7 @@
       "document_id": "doc_sorrento_20",
       "paragraph_id": 3,
       "sentence_id": 6,
-      "term_list": [
-        "www.instagram/comunesorrento"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_sorrento_16",
@@ -2847,7 +2824,8 @@
       "paragraph_id": 5,
       "sentence_id": 3,
       "term_list": [
-        "acquirenti"
+        "acquirenti",
+        "costi connessi"
       ]
     },
     {
@@ -2875,16 +2853,14 @@
       "paragraph_id": 8,
       "sentence_id": 23,
       "term_list": [
-        "frazione conferita"
+        "conferita"
       ]
     },
     {
       "document_id": "doc_sorrento_19",
       "paragraph_id": 3,
       "sentence_id": 5,
-      "term_list": [
-        "www.facebook.com/comunesorrento"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_salerno_03",
@@ -2932,7 +2908,7 @@
       "sentence_id": 2,
       "term_list": [
         "sacchetti di carta",
-        "carta o cartoncino"
+        "carta"
       ]
     },
     {
@@ -2970,7 +2946,7 @@
       "paragraph_id": 18,
       "sentence_id": 0,
       "term_list": [
-        "perdita di gettito"
+        "modalità di certificazione"
       ]
     },
     {
@@ -3024,7 +3000,8 @@
       "paragraph_id": 51,
       "sentence_id": 2,
       "term_list": [
-        "rifiuto"
+        "rifiuto",
+        "organico"
       ]
     },
     {
@@ -3061,7 +3038,9 @@
       "document_id": "doc_santegidiodelmontealbino_03",
       "paragraph_id": 33,
       "sentence_id": 4,
-      "term_list": []
+      "term_list": [
+        "grandi elettrodomestici per la refrigerazione"
+      ]
     },
     {
       "document_id": "doc_poggiomarino_01",
@@ -3090,8 +3069,8 @@
       "term_list": [
         "segnalazione per disservizi",
         "utente",
-        "gestore della raccolta",
-        "gestore dello spazzamento"
+        "gestore della raccolta e trasporto",
+        "gestore dello spazzamento e lavaggio"
       ]
     },
     {
@@ -3141,7 +3120,9 @@
       "document_id": "doc_praiano_02",
       "paragraph_id": 4,
       "sentence_id": 5,
-      "term_list": []
+      "term_list": [
+        "MULTIMATERIALE"
+      ]
     },
     {
       "document_id": "doc_praiano_07",
@@ -3195,9 +3176,7 @@
       "document_id": "doc_sorrento_20",
       "paragraph_id": 3,
       "sentence_id": 4,
-      "term_list": [
-        "www.facebook.com/comunesorrento"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_eboli_02",
@@ -3275,7 +3254,10 @@
       "document_id": "doc_francavillais_02",
       "paragraph_id": 40,
       "sentence_id": 6,
-      "term_list": []
+      "term_list": [
+        "consorzi stabili",
+        "compatibili"
+      ]
     },
     {
       "document_id": "doc_battipaglia_13",
@@ -3503,9 +3485,7 @@
       "document_id": "doc_sorrento_15",
       "paragraph_id": 2,
       "sentence_id": 0,
-      "term_list": [
-        "rifiuti"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_battipaglia_13",
@@ -3589,9 +3569,7 @@
       "document_id": "doc_sorrento_16",
       "paragraph_id": 1,
       "sentence_id": 0,
-      "term_list": [
-        "pulizia dei fondali"
-      ]
+      "term_list": []
     },
     {
       "document_id": "doc_caserta_06",
@@ -3657,7 +3635,8 @@
       "paragraph_id": 16,
       "sentence_id": 1,
       "term_list": [
-        "conferimento"
+        "conferimento",
+        "rifiuti"
       ]
     },
     {
@@ -3783,6 +3762,7 @@
       "paragraph_id": 8,
       "sentence_id": 9,
       "term_list": [
+        "conferito",
         "centro di raccolta",
         "utenza"
       ]
@@ -3809,7 +3789,9 @@
       "document_id": "doc_francavillais_09",
       "paragraph_id": 1,
       "sentence_id": 3,
-      "term_list": []
+      "term_list": [
+        "82000270767"
+      ]
     },
     {
       "document_id": "doc_sarno_15",
@@ -3840,7 +3822,6 @@
       "paragraph_id": 21,
       "sentence_id": 1,
       "term_list": [
-        "carico del gestore",
         "centro di raccolta"
       ]
     },
@@ -3861,8 +3842,7 @@
       "paragraph_id": 50,
       "sentence_id": 11,
       "term_list": [
-        "alluminio",
-        "banda stagnata"
+        "alluminio"
       ]
     },
     {
@@ -3910,9 +3890,8 @@
       "term_list": [
         "imballaggi in plastica",
         "vanno conferiti",
-        "rifiuti",
+        "rifiuti in metalli",
         "alluminio",
-        "banda stagnata",
         "sacco"
       ]
     }

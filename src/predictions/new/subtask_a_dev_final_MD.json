@@ -11,7 +11,8 @@
       "paragraph_id": 3,
       "sentence_id": 1,
       "term_list": [
-        "disciplinare per la gestione dei centri di raccolta comunali"
+        "disciplinare per la gestione dei centri di raccolta comunali",
+        "centri di raccolta dei rifiuti urbani raccolti in"
       ]
     },
     {
@@ -43,8 +44,8 @@
       "paragraph_id": 2,
       "sentence_id": 2,
       "term_list": [
-        "servizio di raccolta dei rifiuti",
         "servizio di raccolta dei rifiuti derivanti",
+        "servizio di raccolta dei rifiuti",
         "sfalci e potature"
       ]
     },
@@ -72,7 +73,9 @@
       "document_id": "doc_capaccio_15",
       "paragraph_id": 2,
       "sentence_id": 2,
-      "term_list": []
+      "term_list": [
+        "differenziati"
+      ]
     },
     {
       "document_id": "doc_sorrento_16",
@@ -136,6 +139,7 @@
       "paragraph_id": 24,
       "sentence_id": 17,
       "term_list": [
+        "ccr",
         "servizio ingombranti"
       ]
     },
@@ -180,9 +184,9 @@
       "paragraph_id": 9,
       "sentence_id": 2,
       "term_list": [
+        "utente",
         "conferimento del rifiuto",
-        "operatore ecologico",
-        "utente"
+        "operatore ecologico"
       ]
     },
     {
@@ -306,8 +310,9 @@
       "paragraph_id": 50,
       "sentence_id": 16,
       "term_list": [
-        "pile esauste",
+        "rup",
         "farmaci",
+        "pile esauste",
         "toner e cartucce"
       ]
     },
@@ -346,11 +351,11 @@
       "paragraph_id": 7,
       "sentence_id": 6,
       "term_list": [
-        "vanno conferiti",
         "cartoni",
         "plastica",
         "acciaio",
-        "alluminio"
+        "alluminio",
+        "vanno conferiti"
       ]
     },
     {
@@ -459,9 +464,9 @@
       "sentence_id": 4,
       "term_list": [
         "depositare",
+        "rifiuti",
         "busta",
-        "bidoni carrellati",
-        "rifiuti"
+        "bidoni carrellati"
       ]
     },
     {
@@ -487,8 +492,8 @@
       "paragraph_id": 10,
       "sentence_id": 4,
       "term_list": [
-        "sacchetti",
-        "carta"
+        "carta",
+        "sacchetti"
       ]
     },
     {
@@ -607,8 +612,8 @@
       "sentence_id": 9,
       "term_list": [
         "campane",
-        "microdiscariche",
-        "vetro"
+        "vetro",
+        "microdiscariche"
       ]
     },
     {
@@ -640,8 +645,8 @@
       "paragraph_id": 14,
       "sentence_id": 6,
       "term_list": [
-        "secchiello",
-        "vetro"
+        "vetro",
+        "secchiello"
       ]
     },
     {
@@ -698,9 +703,9 @@
       "paragraph_id": 2,
       "sentence_id": 28,
       "term_list": [
-        "piano di raccolta",
         "differenziare",
-        "rifiuti"
+        "rifiuti",
+        "piano di raccolta"
       ]
     },
     {
@@ -732,9 +737,9 @@
       "paragraph_id": 68,
       "sentence_id": 23,
       "term_list": [
-        "conferire",
         "carta e cartone",
         "porta a porta",
+        "conferire",
         "residui"
       ]
     },
@@ -749,8 +754,8 @@
       "paragraph_id": 8,
       "sentence_id": 1,
       "term_list": [
-        "conferimento fuori porta",
-        "rifiuto"
+        "rifiuto",
+        "conferimento fuori porta"
       ]
     },
     {
@@ -866,8 +871,8 @@
       "paragraph_id": 5,
       "sentence_id": 1,
       "term_list": [
-        "isola ecologica",
-        "operatori"
+        "operatori",
+        "isola ecologica"
       ]
     },
     {
@@ -896,8 +901,8 @@
       "paragraph_id": 13,
       "sentence_id": 5,
       "term_list": [
-        "busta",
-        "rifiuti"
+        "rifiuti",
+        "busta"
       ]
     },
     {
@@ -905,7 +910,8 @@
       "paragraph_id": 8,
       "sentence_id": 1,
       "term_list": [
-        "gestione dei rifiuti urbani ed assimilati"
+        "gestione dei rifiuti urbani ed assimilati",
+        "igiene ambientale"
       ]
     },
     {
@@ -919,10 +925,10 @@
       "paragraph_id": 15,
       "sentence_id": 0,
       "term_list": [
-        "centro di raccolta",
-        "essere conferiti",
         "imbalta",
-        "plastica"
+        "plastica",
+        "essere conferiti",
+        "centro di raccolta"
       ]
     },
     {
@@ -1064,8 +1070,8 @@
       "paragraph_id": 14,
       "sentence_id": 1,
       "term_list": [
-        "conferimento fuori porta",
-        "rifiuto"
+        "rifiuto",
+        "conferimento fuori porta"
       ]
     },
     {
@@ -1184,10 +1190,10 @@
       "paragraph_id": 4,
       "sentence_id": 4,
       "term_list": [
-        "conferire",
-        "stazione ecologica",
         "utenti",
-        "rifiuti"
+        "conferire",
+        "rifiuti",
+        "stazione ecologica"
       ]
     },
     {
@@ -1237,8 +1243,8 @@
       "paragraph_id": 27,
       "sentence_id": 5,
       "term_list": [
-        "servizio di raccolta",
-        "dichiarazione"
+        "dichiarazione",
+        "servizio di raccolta"
       ]
     },
     {
@@ -1331,8 +1337,8 @@
       "paragraph_id": 6,
       "sentence_id": 4,
       "term_list": [
-        "conferire",
-        "rifiuti"
+        "rifiuti",
+        "conferire"
       ]
     },
     {
@@ -1425,9 +1431,9 @@
       "sentence_id": 4,
       "term_list": [
         "materiale conferito",
+        "sito",
         "contenitori adibiti alla raccolta delle frazioni di rifiuti",
-        "frazioni di rifiuti",
-        "sito"
+        "frazioni di rifiuti"
       ]
     },
     {
@@ -1811,12 +1817,12 @@
       "paragraph_id": 3,
       "sentence_id": 3,
       "term_list": [
-        "utenze domestiche",
         "carta, cartone e cartonicino",
         "sacchetti",
+        "carta",
         "porta a porta",
-        "utenze commerciali",
-        "carta"
+        "utenze domestiche",
+        "utenze commerciali"
       ]
     },
     {
@@ -1836,8 +1842,8 @@
       "paragraph_id": 24,
       "sentence_id": 26,
       "term_list": [
-        "ccr",
-        "vetro"
+        "vetro",
+        "ccr"
       ]
     },
     {
@@ -1907,8 +1913,8 @@
       "paragraph_id": 15,
       "sentence_id": 5,
       "term_list": [
-        "contenitori per la raccolta dei rifiuti urbani macerie provenienti da lavori edili",
-        "depositare"
+        "depositare",
+        "contenitori per la raccolta dei rifiuti urbani macerie provenienti da lavori edili"
       ]
     },
     {
@@ -2018,8 +2024,8 @@
       "paragraph_id": 23,
       "sentence_id": 2,
       "term_list": [
-        "centro di raccolta differenziata",
-        "gestori"
+        "gestori",
+        "centro di raccolta differenziata"
       ]
     },
     {
@@ -2053,8 +2059,8 @@
       "paragraph_id": 14,
       "sentence_id": 1,
       "term_list": [
-        "tetra pak",
-        "plastica"
+        "plastica",
+        "tetra pak"
       ]
     },
     {
@@ -2068,7 +2074,8 @@
       "paragraph_id": 30,
       "sentence_id": 0,
       "term_list": [
-        "utenti"
+        "utenti",
+        "servizio rifiuti"
       ]
     },
     {
@@ -2376,8 +2383,8 @@
       "paragraph_id": 15,
       "sentence_id": 0,
       "term_list": [
-        "rifiuti urbani pericolosi",
-        "rup"
+        "rup",
+        "rifiuti urbani pericolosi"
       ]
     },
     {
@@ -2529,7 +2536,8 @@
       "paragraph_id": 1,
       "sentence_id": 3,
       "term_list": [
-        "servizio di igiene urbana"
+        "servizio di igiene urbana",
+        "igiene urbana"
       ]
     },
     {
@@ -2537,8 +2545,8 @@
       "paragraph_id": 11,
       "sentence_id": 6,
       "term_list": [
-        "conferire",
-        "utenze domestiche"
+        "utenze domestiche",
+        "conferire"
       ]
     },
     {
@@ -2602,12 +2610,12 @@
       "paragraph_id": 15,
       "sentence_id": 2,
       "term_list": [
-        "vanno conferiti",
-        "banda stagnata",
+        "alluminio",
+        "banda",
         "latta",
+        "vanno conferiti",
         "imballaggi in plastica",
-        "sacco azzurro",
-        "alluminio"
+        "sacco azzurro"
       ]
     },
     {
@@ -2616,9 +2624,8 @@
       "sentence_id": 1,
       "term_list": [
         "metallo",
-        "lattine",
-        "banda stagnata",
-        "alluminio"
+        "alluminio",
+        "lattine"
       ]
     },
     {
@@ -2728,9 +2735,9 @@
       "paragraph_id": 9,
       "sentence_id": 4,
       "term_list": [
-        "raccolta",
         "carta - cartone - tetra pak",
-        "busta di carta"
+        "busta di carta",
+        "raccolta"
       ]
     },
     {
@@ -2790,13 +2797,13 @@
       "paragraph_id": 5,
       "sentence_id": 1,
       "term_list": [
-        "isola ecologica",
-        "rifiuti verdi",
-        "essere conferiti",
         "abiti dismessi",
+        "rifiuti verdi",
         "toner",
         "olii esausti",
-        "contenitori di sostanze pericolose"
+        "contenitori di sostanze pericolose",
+        "essere conferiti",
+        "isola ecologica"
       ]
     },
     {
@@ -2837,8 +2844,8 @@
       "paragraph_id": 8,
       "sentence_id": 9,
       "term_list": [
-        "conferimento",
         "inerti",
+        "conferimento",
         "utenza"
       ]
     },
@@ -2939,9 +2946,9 @@
       "paragraph_id": 28,
       "sentence_id": 2,
       "term_list": [
-        "utenze domestiche",
         "parte fissa",
-        "parte variabile"
+        "parte variabile",
+        "utenze domestiche"
       ]
     },
     {
@@ -3211,9 +3218,9 @@
       "paragraph_id": 36,
       "sentence_id": 1,
       "term_list": [
-        "gestore della raccolta e trasporto",
         "segnalazione",
-        "utente"
+        "utente",
+        "gestore della raccolta e trasporto"
       ]
     },
     {
@@ -3221,9 +3228,9 @@
       "paragraph_id": 8,
       "sentence_id": 6,
       "term_list": [
-        "tari",
         "frazioni",
-        "utenza"
+        "utenza",
+        "tari"
       ]
     },
     {
@@ -3274,8 +3281,8 @@
       "term_list": [
         "rifiuti organici",
         "carta e cartone",
-        "multimateriale",
-        "vetro"
+        "vetro",
+        "multimateriale"
       ]
     },
     {
@@ -3305,8 +3312,8 @@
       "paragraph_id": 3,
       "sentence_id": 1,
       "term_list": [
-        "multimateriale",
-        "plastica"
+        "plastica",
+        "multimateriale"
       ]
     },
     {
@@ -3316,9 +3323,9 @@
       "term_list": [
         "rifiuti organici",
         "carta e cartone",
+        "vetro",
         "multimateriale",
-        "rifiuto indifferenziato",
-        "vetro"
+        "rifiuto indifferenziato"
       ]
     },
     {
@@ -3404,8 +3411,8 @@
       "paragraph_id": 8,
       "sentence_id": 3,
       "term_list": [
-        "raccolta",
-        "multimateriale"
+        "multimateriale",
+        "raccolta"
       ]
     },
     {
@@ -3551,10 +3558,10 @@
       "paragraph_id": 68,
       "sentence_id": 30,
       "term_list": [
-        "conferire",
-        "isole ecologiche",
         "potature",
-        "umido porta a porta"
+        "umido porta a porta",
+        "conferire",
+        "isole ecologiche"
       ]
     },
     {
@@ -3622,8 +3629,8 @@
       "paragraph_id": 66,
       "sentence_id": 2,
       "term_list": [
-        "isole ecologiche",
-        "tubi fluorescenti ed altri tubi contenenti mercurio"
+        "tubi fluorescenti ed altri tubi contenenti mercurio",
+        "isole ecologiche"
       ]
     },
     {
@@ -3684,8 +3691,8 @@
       "term_list": [
         "rifiuti organici",
         "carta e cartone",
-        "multimateriale",
-        "vetro"
+        "vetro",
+        "multimateriale"
       ]
     },
     {
@@ -3815,8 +3822,8 @@
       "term_list": [
         "rifiuti organici",
         "carta e cartone",
-        "multimateriale",
-        "vetro"
+        "vetro",
+        "multimateriale"
       ]
     },
     {
@@ -3853,8 +3860,8 @@
       "paragraph_id": 18,
       "sentence_id": 0,
       "term_list": [
-        "raee",
-        "ingombranti"
+        "ingombranti",
+        "raee"
       ]
     },
     {
@@ -3897,8 +3904,8 @@
       "paragraph_id": 12,
       "sentence_id": 13,
       "term_list": [
-        "raccolta differenziata",
-        "rifiuti"
+        "rifiuti",
+        "raccolta differenziata"
       ]
     },
     {
@@ -3967,9 +3974,9 @@
       "paragraph_id": 1,
       "sentence_id": 3,
       "term_list": [
-        "raccolta differenziata",
         "percentuale di raccolta differenziata",
-        "plastica mono"
+        "plastica mono",
+        "raccolta differenziata"
       ]
     },
     {
@@ -3977,9 +3984,9 @@
       "paragraph_id": 8,
       "sentence_id": 9,
       "term_list": [
-        "centro di raccolta",
-        "conferito",
         "totale annuale",
+        "conferito",
+        "centro di raccolta",
         "utenza"
       ]
     },
@@ -3988,8 +3995,8 @@
       "paragraph_id": 24,
       "sentence_id": 11,
       "term_list": [
-        "raee",
         "televisore catodico",
+        "raee",
         "ccr",
         "servizio ingombranti"
       ]
@@ -4043,8 +4050,8 @@
       "paragraph_id": 21,
       "sentence_id": 1,
       "term_list": [
-        "centro di raccolta",
-        "gestore"
+        "gestore",
+        "centro di raccolta"
       ]
     },
     {
@@ -4065,8 +4072,8 @@
       "sentence_id": 11,
       "term_list": [
         "acciaio",
-        "banda stagnata",
-        "alluminio"
+        "alluminio",
+        "banda stagnata"
       ]
     },
     {
@@ -4108,8 +4115,8 @@
       "paragraph_id": 2,
       "sentence_id": 5,
       "term_list": [
-        "secchiello",
-        "vetro"
+        "vetro",
+        "secchiello"
       ]
     },
     {
@@ -4117,14 +4124,13 @@
       "paragraph_id": 12,
       "sentence_id": 1,
       "term_list": [
-        "vanno conferiti",
         "imballaggi in plastica",
+        "vanno conferiti",
+        "rifiuti",
+        "alluminio",
         "metallo",
         "latta",
-        "sacco azzurro",
-        "banda stagnata",
-        "rifiuti",
-        "alluminio"
+        "sacco azzurro"
       ]
     }
   ]
