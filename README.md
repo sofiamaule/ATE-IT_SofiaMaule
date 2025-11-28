@@ -120,28 +120,30 @@ generate BERT predictions for dev
 
 save them into src/predictions/
 
-2. **Open src/postprocessing/clean_bert_terms.ipynb**
-Run the cleaning pipeline to:
-normalise text
-drop truncated spans
-de-duplicate terms
-
-Save cleaned predictions (e.g. src/predictions/subtask_a_dev_ensemble_clean.json)
-
-3. **Train spaCy pipeline**
+2. **Train spaCy pipeline**
 Open src/spacy_term_extraction.ipynb
 Train the spaCy model on the same training data
 Export spaCy predictions for dev → src/predictions/
 
-4. **Build training vocabulary + ensemble BERT + spaCy**
+3. **Build training vocabulary + ensemble BERT + spaCy**
 Open src/bert_spacy_term_extraction.ipynb
 Run the notebook to:
 - Build the single vocabulary from the gold terms in data/subtask_a_train.*
 - Merge BERT and spaCy candidates using this vocabulary
 - Save the ensemble predictions to src/predictions/
-- Post-processing / cleaning
 
-5. **LLM reranking**
+4. **Open and run src/postprocessing/clean_bert_terms.ipynb**
+Run the cleaning pipeline to:
+normalise text
+drop truncated spans
+de-duplicate terms
+remove nested terms
+Save cleaned predictions (e.g. src/predictions/subtask_a_dev_ensemble_clean.json)
+
+5. **Open src/postprocessing/clean_final_submission.ipynb**
+
+
+**LLM reranking**
 Open src/llm_reranking.ipynb
 
 Configure the API key via .env
