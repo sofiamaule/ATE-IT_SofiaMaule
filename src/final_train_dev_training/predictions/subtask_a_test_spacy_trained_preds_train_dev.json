@@ -1,0 +1,7768 @@
+{
+  "data": [
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 1,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 1,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 1,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 2,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 2,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 14,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 17,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 18,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 22,
+      "term_list": [
+        "multimateriale"
+      ]
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 23,
+      "term_list": [
+        "plastica",
+        "alluminio",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 24,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 26,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 3,
+      "sentence_id": 27,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 4,
+      "sentence_id": 28,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 4,
+      "sentence_id": 29,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 4,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 4,
+      "sentence_id": 31,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 4,
+      "sentence_id": 32,
+      "term_list": [
+        "multimateriale",
+        "plastica",
+        "alluminio",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 4,
+      "sentence_id": 33,
+      "term_list": [
+        "frigoriferi",
+        "lavatrici"
+      ]
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 5,
+      "sentence_id": 34,
+      "term_list": []
+    },
+    {
+      "document_id": "amato_01",
+      "paragraph_id": 5,
+      "sentence_id": 35,
+      "term_list": [
+        "sigillo"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 1,
+      "sentence_id": 76,
+      "term_list": [
+        "plastica",
+        "essere conferiti",
+        "imballaggi in plastica"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 1,
+      "sentence_id": 77,
+      "term_list": [
+        "sacchi"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 1,
+      "sentence_id": 78,
+      "term_list": [
+        "rifiuti",
+        "vanno posizionati",
+        "raccolta",
+        "calendario"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 2,
+      "sentence_id": 79,
+      "term_list": [
+        "utenti"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 80,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 81,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 82,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 83,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 84,
+      "term_list": [
+        "congelatori",
+        "frigoriferi"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 85,
+      "term_list": [
+        "lampade a neon"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 86,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 87,
+      "term_list": [
+        "lavastoviglie e lavatrici"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 88,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 89,
+      "term_list": [
+        "piccoli elettrodomestici"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 90,
+      "term_list": [
+        "sigarette elettroniche"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 91,
+      "term_list": [
+        "televisori e monitor"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 92,
+      "term_list": [
+        "stendini in resina"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 3,
+      "sentence_id": 93,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 4,
+      "sentence_id": 94,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 4,
+      "sentence_id": 95,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 4,
+      "sentence_id": 96,
+      "term_list": [
+        "bancali in legno"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 4,
+      "sentence_id": 97,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 4,
+      "sentence_id": 98,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 4,
+      "sentence_id": 99,
+      "term_list": [
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 4,
+      "sentence_id": 100,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 101,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 102,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 103,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 104,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 105,
+      "term_list": [
+        "tetra pak"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 106,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 107,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 108,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 109,
+      "term_list": [
+        "imballaggi in cartone"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 110,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 111,
+      "term_list": [
+        "sacchetti di carta puliti"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 112,
+      "term_list": [
+        "carta"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 113,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 114,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 5,
+      "sentence_id": 115,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 6,
+      "sentence_id": 116,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 6,
+      "sentence_id": 117,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 6,
+      "sentence_id": 118,
+      "term_list": [
+        "farmaci scaduti"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 7,
+      "sentence_id": 119,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 7,
+      "sentence_id": 120,
+      "term_list": [
+        "pile a bottone"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 7,
+      "sentence_id": 121,
+      "term_list": [
+        "pile"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 122,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 123,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 124,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 125,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 126,
+      "term_list": [
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 127,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 128,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 129,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 130,
+      "term_list": [
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 131,
+      "term_list": [
+        "foglio di alluminio"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 132,
+      "term_list": [
+        "imballaggi in plastica"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 133,
+      "term_list": [
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 134,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 135,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 136,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 137,
+      "term_list": [
+        "sacchetti"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 138,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 139,
+      "term_list": [
+        "olio"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 140,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 141,
+      "term_list": [
+        "tubetti in alluminio"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 142,
+      "term_list": [
+        "alluminio"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 8,
+      "sentence_id": 143,
+      "term_list": [
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 9,
+      "sentence_id": 144,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 9,
+      "sentence_id": 145,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 9,
+      "sentence_id": 146,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 9,
+      "sentence_id": 147,
+      "term_list": [
+        "ruote"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 9,
+      "sentence_id": 148,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 9,
+      "sentence_id": 149,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 9,
+      "sentence_id": 150,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 10,
+      "sentence_id": 151,
+      "term_list": [
+        "rubbish"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 10,
+      "sentence_id": 152,
+      "term_list": [
+        "voluminosi"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 10,
+      "sentence_id": 153,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 10,
+      "sentence_id": 154,
+      "term_list": [
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 10,
+      "sentence_id": 155,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 10,
+      "sentence_id": 156,
+      "term_list": [
+        "vetroresina",
+        "plexiglass"
+      ]
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 11,
+      "sentence_id": 157,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 11,
+      "sentence_id": 158,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 11,
+      "sentence_id": 159,
+      "term_list": []
+    },
+    {
+      "document_id": "cavaionveronese_01",
+      "paragraph_id": 11,
+      "sentence_id": 160,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": [
+        "raccolta differenziata domiciliare"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 1,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 2,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 2,
+      "sentence_id": 5,
+      "term_list": [
+        "|-------------------------|------|------------------------------------------------|"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 2,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 2,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 2,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 3,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 4,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 5,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 5,
+      "sentence_id": 12,
+      "term_list": [
+        "rifiuti",
+        "cassonetti"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 5,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 5,
+      "sentence_id": 14,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 5,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 5,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 5,
+      "sentence_id": 17,
+      "term_list": [
+        "25 e 26"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 6,
+      "sentence_id": 18,
+      "term_list": [
+        "sacchi",
+        "bidoncini"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 6,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 7,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 7,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 7,
+      "sentence_id": 22,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 7,
+      "sentence_id": 23,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 8,
+      "sentence_id": 24,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 8,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 8,
+      "sentence_id": 26,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 8,
+      "sentence_id": 27,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 9,
+      "sentence_id": 28,
+      "term_list": [
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 9,
+      "sentence_id": 29,
+      "term_list": [
+        "ingombranti"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 9,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 9,
+      "sentence_id": 31,
+      "term_list": [
+        "raccolta amianto"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 9,
+      "sentence_id": 32,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 9,
+      "sentence_id": 33,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 9,
+      "sentence_id": 34,
+      "term_list": [
+        "lana di vetro"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 10,
+      "sentence_id": 35,
+      "term_list": [
+        "ritiro gratuito a domicilio",
+        "raccolta ingombranti"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 11,
+      "sentence_id": 36,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 11,
+      "sentence_id": 37,
+      "term_list": [
+        "pannolini",
+        "bidone"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 38,
+      "term_list": [
+        "commercianti"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 39,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 40,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 41,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 42,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 43,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 44,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 45,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 46,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 47,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 48,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 49,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 50,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 51,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 52,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 53,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 54,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 55,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 56,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 57,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 58,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 59,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 60,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 61,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 62,
+      "term_list": [
+        "plastica"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 63,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 64,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 12,
+      "sentence_id": 65,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 13,
+      "sentence_id": 66,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 13,
+      "sentence_id": 67,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 13,
+      "sentence_id": 68,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 13,
+      "sentence_id": 69,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 13,
+      "sentence_id": 70,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 13,
+      "sentence_id": 71,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 13,
+      "sentence_id": 72,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 13,
+      "sentence_id": 73,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 13,
+      "sentence_id": 74,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 13,
+      "sentence_id": 75,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 13,
+      "sentence_id": 76,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 13,
+      "sentence_id": 77,
+      "term_list": []
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 14,
+      "sentence_id": 78,
+      "term_list": [
+        "rifiuti",
+        "calendario",
+        "utenze",
+        "raccolte"
+      ]
+    },
+    {
+      "document_id": "valsamoggia_01",
+      "paragraph_id": 15,
+      "sentence_id": 79,
+      "term_list": [
+        "esporre",
+        "rifiuto",
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 1,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 1,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 2,
+      "sentence_id": 5,
+      "term_list": [
+        "ritiro ingombranti e sfalci verdi"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 3,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 3,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 4,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 5,
+      "sentence_id": 9,
+      "term_list": [
+        "rifiuti",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 6,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 14,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 15,
+      "term_list": [
+        "umido"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 16,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 17,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 18,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 19,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 22,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 23,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 24,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 25,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 26,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 27,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 28,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 29,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 30,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 31,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 32,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 33,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 34,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 35,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 36,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 37,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 38,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 39,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 40,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 41,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 42,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 43,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 44,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 45,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 46,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 47,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 48,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 49,
+      "term_list": [
+        "umido"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 50,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 51,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 52,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 53,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 54,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 55,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 56,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 57,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 58,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 59,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 60,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 61,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 62,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 63,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 64,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 65,
+      "term_list": [
+        "umido secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 66,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 67,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 68,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 69,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 70,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 71,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 72,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 73,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 74,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 75,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 76,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 77,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 78,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 79,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 80,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 81,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 82,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 83,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 84,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 85,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 86,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 87,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 88,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 89,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 90,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 91,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 92,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 93,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 94,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 95,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 96,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 97,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 98,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 99,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 100,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 101,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 102,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 103,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 104,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 105,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 106,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 107,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 108,
+      "term_list": [
+        "umido vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 109,
+      "term_list": [
+        "umido vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 110,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 111,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 112,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 113,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 114,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 115,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 116,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 117,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 118,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 119,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 120,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 121,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 122,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 123,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 124,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 125,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 126,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 127,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 128,
+      "term_list": [
+        "vetro e lattine"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 129,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 130,
+      "term_list": [
+        "secco"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 131,
+      "term_list": []
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 132,
+      "term_list": [
+        "umido plastica"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 133,
+      "term_list": [
+        "umido carta"
+      ]
+    },
+    {
+      "document_id": "villasor_01",
+      "paragraph_id": 7,
+      "sentence_id": 134,
+      "term_list": [
+        "vetro",
+        "lattine"
+      ]
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": [
+        "raccolta rifiuti"
+      ]
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 2,
+      "sentence_id": 2,
+      "term_list": [
+        "servizio straordinario di raccolta rifiuti"
+      ]
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 3,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 3,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 4,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 4,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 4,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 5,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 5,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 6,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 6,
+      "sentence_id": 11,
+      "term_list": [
+        "servizio straordinario di raccolta rifiuti"
+      ]
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 6,
+      "sentence_id": 12,
+      "term_list": [
+        "ritiro"
+      ]
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 6,
+      "sentence_id": 13,
+      "term_list": [
+        "conferire",
+        "rifiuti",
+        "stazione ecologica"
+      ]
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 6,
+      "sentence_id": 14,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 6,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 6,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 6,
+      "sentence_id": 17,
+      "term_list": [
+        "calendario di raccolta porta a porta"
+      ]
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 7,
+      "sentence_id": 18,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 7,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 7,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 8,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "bagnacavallo_01",
+      "paragraph_id": 8,
+      "sentence_id": 22,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 3,
+      "term_list": [
+        "raccolta differenziata",
+        "cadenza trimestrale"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 14,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 2,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 8,
+      "sentence_id": 17,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 8,
+      "sentence_id": 18,
+      "term_list": [
+        "ritiro",
+        "utente"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 8,
+      "sentence_id": 19,
+      "term_list": [
+        "sacchetti",
+        "utenti"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 8,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 9,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 10,
+      "sentence_id": 22,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 10,
+      "sentence_id": 23,
+      "term_list": [
+        "raccolta differenziata"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 10,
+      "sentence_id": 24,
+      "term_list": [
+        "ingombranti",
+        "glossario del riciclo"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 11,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 12,
+      "sentence_id": 26,
+      "term_list": [
+        "conferire"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 13,
+      "sentence_id": 27,
+      "term_list": [
+        "utente"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 14,
+      "sentence_id": 28,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 14,
+      "sentence_id": 29,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 14,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 14,
+      "sentence_id": 31,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 14,
+      "sentence_id": 32,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 14,
+      "sentence_id": 33,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 14,
+      "sentence_id": 34,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 14,
+      "sentence_id": 35,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 14,
+      "sentence_id": 36,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 15,
+      "sentence_id": 37,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 15,
+      "sentence_id": 38,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 15,
+      "sentence_id": 39,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodelsannio_01",
+      "paragraph_id": 15,
+      "sentence_id": 40,
+      "term_list": []
+    },
+    {
+      "document_id": "selliamarina_01",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": [
+        "indumenti"
+      ]
+    },
+    {
+      "document_id": "selliamarina_01",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": [
+        "modalità di conferimento",
+        "indumenti"
+      ]
+    },
+    {
+      "document_id": "selliamarina_01",
+      "paragraph_id": 2,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "selliamarina_01",
+      "paragraph_id": 2,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "selliamarina_01",
+      "paragraph_id": 3,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "selliamarina_01",
+      "paragraph_id": 3,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "selliamarina_01",
+      "paragraph_id": 4,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "selliamarina_01",
+      "paragraph_id": 4,
+      "sentence_id": 8,
+      "term_list": [
+        "abiti",
+        "conferire",
+        "conferimento",
+        "riutilizzo",
+        "rifiuto"
+      ]
+    },
+    {
+      "document_id": "selliamarina_01",
+      "paragraph_id": 5,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 1,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 2,
+      "sentence_id": 4,
+      "term_list": [
+        "calendario raccolta"
+      ]
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 3,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 4,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 14,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 17,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 18,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 5,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 6,
+      "sentence_id": 22,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 6,
+      "sentence_id": 23,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 6,
+      "sentence_id": 24,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 6,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 6,
+      "sentence_id": 26,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 6,
+      "sentence_id": 27,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 6,
+      "sentence_id": 28,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 6,
+      "sentence_id": 29,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 6,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "settimomilanese_01",
+      "paragraph_id": 6,
+      "sentence_id": 31,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 1,
+      "sentence_id": 368,
+      "term_list": [
+        "utenti",
+        "conferire",
+        "rifiuti ingombranti",
+        "rifiuti differenziati",
+        "ecocentro"
+      ]
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 2,
+      "sentence_id": 369,
+      "term_list": [
+        "ecocentro"
+      ]
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 2,
+      "sentence_id": 370,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 2,
+      "sentence_id": 371,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 3,
+      "sentence_id": 372,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 4,
+      "sentence_id": 373,
+      "term_list": [
+        "conferire",
+        "rifiuti ingombranti",
+        "rifiuti differenziati",
+        "ecocentro"
+      ]
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 5,
+      "sentence_id": 374,
+      "term_list": [
+        "ecocentro"
+      ]
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 5,
+      "sentence_id": 375,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 5,
+      "sentence_id": 376,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 6,
+      "sentence_id": 377,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 378,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 379,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 380,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 381,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 382,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 383,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 384,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 385,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 386,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 387,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 388,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 389,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 390,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 391,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 392,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 393,
+      "term_list": []
+    },
+    {
+      "document_id": "settimosanpietro_01",
+      "paragraph_id": 7,
+      "sentence_id": 394,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 31,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 32,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 33,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 34,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 35,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 36,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 37,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 38,
+      "term_list": [
+        "importi non dovuti"
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 39,
+      "term_list": [
+        "utenti",
+        "modalità di riconoscimento"
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 40,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 41,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 42,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 43,
+      "term_list": [
+        "...................................................."
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 44,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 45,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 46,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 47,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 48,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 49,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 50,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 51,
+      "term_list": [
+        "gestore"
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 52,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 53,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 54,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 55,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 56,
+      "term_list": [
+        "servizi di ritiro",
+        "chiamata"
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 57,
+      "term_list": [
+        "attrezzature per la raccolta domiciliare"
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 58,
+      "term_list": [
+        "aree di raccolta"
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 59,
+      "term_list": [
+        "raccolta e trasporto art. 35.2"
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 60,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 61,
+      "term_list": [
+        "servizio di gestione dei rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 62,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 63,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 64,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 65,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 2,
+      "sentence_id": 66,
+      "term_list": []
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 67,
+      "term_list": [
+        "utenti",
+        "gestore",
+        "servizio di gestione dei rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 68,
+      "term_list": [
+        "soggetto gestore",
+        "utenti"
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 69,
+      "term_list": [
+        "servizi pubblici",
+        "utenti"
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 70,
+      "term_list": [
+        "servizio rifiuti",
+        "servizio integrato di gestione dei rifiuti urbani",
+        "gestori dei singoli servizi",
+        "contenuti",
+        "gestori"
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 71,
+      "term_list": [
+        "servizio integrato di gestione dei rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "baiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 72,
+      "term_list": [
+        "gestore del servizio integrato",
+        "gestore"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 1,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 2,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 2,
+      "sentence_id": 5,
+      "term_list": [
+        "servizio di gestione integrata dei rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 2,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 3,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 14,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 16,
+      "term_list": [
+        "utenti"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 17,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 18,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 22,
+      "term_list": [
+        "servizio di gestione dei rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 23,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 24,
+      "term_list": [
+        "attrezzature per la raccolta"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 26,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 27,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 28,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 29,
+      "term_list": [
+        "utente"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 31,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 32,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 33,
+      "term_list": [
+        "punti di contatto",
+        "utente"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 34,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 35,
+      "term_list": [
+        "pagamento"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 36,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 37,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 38,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 4,
+      "sentence_id": 39,
+      "term_list": [
+        "importi non dovuti"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 5,
+      "sentence_id": 40,
+      "term_list": [
+        "servizio di gestione integrata dei rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 5,
+      "sentence_id": 41,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 42,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 43,
+      "term_list": [
+        "servizio integrato di gestione dei rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 44,
+      "term_list": [
+        "tariffe"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 45,
+      "term_list": [
+        "attività di bollettazione",
+        "avvisi di pagamento"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 46,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 47,
+      "term_list": [
+        "utenti"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 48,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 49,
+      "term_list": [
+        "rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 50,
+      "term_list": [
+        "raccolta e trasporto",
+        "operazioni di raccolta",
+        "trasporto dei rifiuti urbani",
+        "impianti di trattamento",
+        "smaltimento",
+        "riutilizzo"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 51,
+      "term_list": [
+        "spazzamento e lavaggio",
+        "operazioni di spazzamento",
+        "e di lavaggio",
+        "cestini",
+        "fruibilità"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 52,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 53,
+      "term_list": [
+        "utenti",
+        "gestore",
+        "servizio di gestione dei rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 54,
+      "term_list": []
+    },
+    {
+      "document_id": "maglie_01",
+      "paragraph_id": 6,
+      "sentence_id": 55,
+      "term_list": [
+        "tariffa",
+        "raccolta domiciliare"
+      ]
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 1,
+      "sentence_id": 53,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 1,
+      "sentence_id": 54,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 1,
+      "sentence_id": 55,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 1,
+      "sentence_id": 56,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 1,
+      "sentence_id": 57,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 2,
+      "sentence_id": 58,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 2,
+      "sentence_id": 59,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 2,
+      "sentence_id": 60,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 2,
+      "sentence_id": 61,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 2,
+      "sentence_id": 62,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 2,
+      "sentence_id": 63,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 2,
+      "sentence_id": 64,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 3,
+      "sentence_id": 65,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 3,
+      "sentence_id": 66,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 3,
+      "sentence_id": 67,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 3,
+      "sentence_id": 68,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 3,
+      "sentence_id": 69,
+      "term_list": []
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 3,
+      "sentence_id": 70,
+      "term_list": [
+        "persistente insufficiente rendimento"
+      ]
+    },
+    {
+      "document_id": "brindisi_01",
+      "paragraph_id": 3,
+      "sentence_id": 71,
+      "term_list": []
+    },
+    {
+      "document_id": "giardininaxos_01",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "giardininaxos_01",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "giardininaxos_01",
+      "paragraph_id": 2,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "giardininaxos_01",
+      "paragraph_id": 3,
+      "sentence_id": 4,
+      "term_list": [
+        "0942/5780218",
+        "aree attrezzate per la raccolta dei rifiuti differenziati"
+      ]
+    },
+    {
+      "document_id": "giardininaxos_01",
+      "paragraph_id": 3,
+      "sentence_id": 5,
+      "term_list": [
+        "cassonetti",
+        "smaltimento",
+        "operatori addetti al servizio",
+        "utenza"
+      ]
+    },
+    {
+      "document_id": "giardininaxos_01",
+      "paragraph_id": 3,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "giardininaxos_01",
+      "paragraph_id": 4,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "giardininaxos_01",
+      "paragraph_id": 4,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 14,
+      "term_list": []
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 16,
+      "term_list": [
+        "minore a carico"
+      ]
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 17,
+      "term_list": [
+        "indicatore"
+      ]
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 18,
+      "term_list": []
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 20,
+      "term_list": [
+        "indicatore"
+      ]
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 22,
+      "term_list": [
+        "certificazioni rilasciate"
+      ]
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 23,
+      "term_list": []
+    },
+    {
+      "document_id": "giuglianoincampania_01",
+      "paragraph_id": 1,
+      "sentence_id": 24,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 2,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 2,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 3,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 3,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 3,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 4,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 4,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 5,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 5,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 5,
+      "sentence_id": 12,
+      "term_list": [
+        "utenza",
+        "avvisi di pagamento"
+      ]
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 6,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 6,
+      "sentence_id": 14,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 6,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 7,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "poncarale_01",
+      "paragraph_id": 7,
+      "sentence_id": 17,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 1,
+      "sentence_id": 10,
+      "term_list": [
+        "beni comunali"
+      ]
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 2,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 2,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 2,
+      "sentence_id": 13,
+      "term_list": [
+        "smaltimento",
+        "rifiuti speciali"
+      ]
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 2,
+      "sentence_id": 14,
+      "term_list": [
+        "derattizzazione"
+      ]
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 2,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 3,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 3,
+      "sentence_id": 17,
+      "term_list": [
+        "ufficio ecologia"
+      ]
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 4,
+      "sentence_id": 18,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 4,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 4,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 5,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 5,
+      "sentence_id": 22,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 6,
+      "sentence_id": 23,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 6,
+      "sentence_id": 24,
+      "term_list": [
+        "busta"
+      ]
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 6,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 6,
+      "sentence_id": 26,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 6,
+      "sentence_id": 27,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 6,
+      "sentence_id": 28,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 6,
+      "sentence_id": 29,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 6,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 6,
+      "sentence_id": 31,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 6,
+      "sentence_id": 32,
+      "term_list": []
+    },
+    {
+      "document_id": "sommavesuviana_01",
+      "paragraph_id": 6,
+      "sentence_id": 33,
+      "term_list": [
+        "busta"
+      ]
+    },
+    {
+      "document_id": "sora_01",
+      "paragraph_id": 1,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "sora_01",
+      "paragraph_id": 1,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "sora_01",
+      "paragraph_id": 1,
+      "sentence_id": 17,
+      "term_list": []
+    },
+    {
+      "document_id": "sora_01",
+      "paragraph_id": 2,
+      "sentence_id": 18,
+      "term_list": [
+        "procedure per la nomina"
+      ]
+    },
+    {
+      "document_id": "sora_01",
+      "paragraph_id": 3,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "sora_01",
+      "paragraph_id": 3,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "sora_01",
+      "paragraph_id": 3,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "sora_01",
+      "paragraph_id": 3,
+      "sentence_id": 22,
+      "term_list": []
+    },
+    {
+      "document_id": "sora_01",
+      "paragraph_id": 3,
+      "sentence_id": 23,
+      "term_list": []
+    },
+    {
+      "document_id": "sora_01",
+      "paragraph_id": 3,
+      "sentence_id": 24,
+      "term_list": []
+    },
+    {
+      "document_id": "sora_01",
+      "paragraph_id": 3,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "casalesulsile_01",
+      "paragraph_id": 1,
+      "sentence_id": 17,
+      "term_list": []
+    },
+    {
+      "document_id": "casalesulsile_01",
+      "paragraph_id": 1,
+      "sentence_id": 18,
+      "term_list": [
+        "manutenzione di scoli e terreni"
+      ]
+    },
+    {
+      "document_id": "casalesulsile_01",
+      "paragraph_id": 2,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "casalesulsile_01",
+      "paragraph_id": 2,
+      "sentence_id": 20,
+      "term_list": [
+        "conservazione del verde",
+        "manutenzione dei terreni non coltivati",
+        "destinazione",
+        "ultimazione dei lavori"
+      ]
+    },
+    {
+      "document_id": "casalesulsile_01",
+      "paragraph_id": 3,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "casalesulsile_01",
+      "paragraph_id": 4,
+      "sentence_id": 22,
+      "term_list": [
+        "interventi di gestione"
+      ]
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 1,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 2,
+      "sentence_id": 31,
+      "term_list": [
+        "raccolta rifiuti",
+        "vasca di raccolta",
+        "modalità dei rifiuti",
+        "raccolta, trasporto e smaltimento dei rifiuti"
+      ]
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 3,
+      "sentence_id": 32,
+      "term_list": []
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 4,
+      "sentence_id": 33,
+      "term_list": []
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 4,
+      "sentence_id": 34,
+      "term_list": [
+        "servizio di raccolta differenziata",
+        "costi dovuti alla gestione dei rifiuti solidi urbani"
+      ]
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 5,
+      "sentence_id": 35,
+      "term_list": []
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 5,
+      "sentence_id": 36,
+      "term_list": [
+        "igiene urbana e servizi complementari prevede un'annuale",
+        "raccolta differenziata dei rifiuti",
+        "abbandono"
+      ]
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 5,
+      "sentence_id": 37,
+      "term_list": [
+        "abbandono dei rifiuti"
+      ]
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 6,
+      "sentence_id": 38,
+      "term_list": [
+        "servizi di igiene urbana"
+      ]
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 7,
+      "sentence_id": 39,
+      "term_list": []
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 7,
+      "sentence_id": 40,
+      "term_list": [
+        "degrado",
+        "vivibilità urbana"
+      ]
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 8,
+      "sentence_id": 41,
+      "term_list": []
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 8,
+      "sentence_id": 42,
+      "term_list": []
+    },
+    {
+      "document_id": "foggia_01",
+      "paragraph_id": 8,
+      "sentence_id": 43,
+      "term_list": []
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 9,
+      "sentence_id": 39,
+      "term_list": []
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 9,
+      "sentence_id": 40,
+      "term_list": [
+        "servizio di raccolta, domiciliare",
+        "stradale",
+        "indumenti",
+        "servizi previsti"
+      ]
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 9,
+      "sentence_id": 41,
+      "term_list": [
+        "gestore"
+      ]
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 9,
+      "sentence_id": 42,
+      "term_list": [
+        "servizi"
+      ]
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 9,
+      "sentence_id": 43,
+      "term_list": [
+        "raccolta su chiamata",
+        "utenti",
+        "indumenti usati"
+      ]
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 9,
+      "sentence_id": 44,
+      "term_list": []
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 9,
+      "sentence_id": 45,
+      "term_list": []
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 9,
+      "sentence_id": 46,
+      "term_list": [
+        "antipioggia"
+      ]
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 9,
+      "sentence_id": 47,
+      "term_list": [
+        "utenti"
+      ]
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 10,
+      "sentence_id": 48,
+      "term_list": [
+        "isola ecologica",
+        "utenti",
+        "conferire",
+        "rifiuti",
+        "carta",
+        "plastica",
+        "vetro",
+        "indifferenziata",
+        "raccolta"
+      ]
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 11,
+      "sentence_id": 49,
+      "term_list": [
+        "disciplinare",
+        "isola ecologica"
+      ]
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 12,
+      "sentence_id": 50,
+      "term_list": []
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 12,
+      "sentence_id": 51,
+      "term_list": [
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 12,
+      "sentence_id": 52,
+      "term_list": [
+        "isola ecologica",
+        "utenti"
+      ]
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 12,
+      "sentence_id": 53,
+      "term_list": [
+        "utenza"
+      ]
+    },
+    {
+      "document_id": "toritto_01",
+      "paragraph_id": 13,
+      "sentence_id": 54,
+      "term_list": []
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": [
+        "tariffa sui rifiuti"
+      ]
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 2,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 2,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 3,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 3,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 4,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 4,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 4,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 5,
+      "sentence_id": 10,
+      "term_list": [
+        "presumably containing waste"
+      ]
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 6,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 6,
+      "sentence_id": 12,
+      "term_list": [
+        "regolamento per la disciplina della tariffa rifiuti",
+        "servizio di raccolta"
+      ]
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 6,
+      "sentence_id": 13,
+      "term_list": [
+        "utenze non domestiche",
+        "conferire",
+        "rifiuti",
+        "conferimento"
+      ]
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 6,
+      "sentence_id": 14,
+      "term_list": [
+        "utenti",
+        "compostaggio individuale",
+        "utente interessato"
+      ]
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 6,
+      "sentence_id": 15,
+      "term_list": [
+        "introduzione",
+        "utenze domestiche",
+        "conferire",
+        "rifiuto non riciclabile",
+        "umido organico",
+        "sistema di raccolta \"porta a porta"
+      ]
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 6,
+      "sentence_id": 16,
+      "term_list": [
+        "tariffe",
+        "utenze domestiche",
+        "bollette"
+      ]
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 6,
+      "sentence_id": 17,
+      "term_list": [
+        "bollette",
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 7,
+      "sentence_id": 18,
+      "term_list": []
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 7,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 8,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "copparo_01",
+      "paragraph_id": 8,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 1,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 2,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 2,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 3,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 3,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 4,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 4,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 5,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 5,
+      "sentence_id": 14,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 5,
+      "sentence_id": 15,
+      "term_list": [
+        "abbandono irregolare dei rifiuti",
+        "servizi di raccolta",
+        "punti di distribuzione"
+      ]
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 5,
+      "sentence_id": 16,
+      "term_list": [
+        "postazioni strategiche dove"
+      ]
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 5,
+      "sentence_id": 17,
+      "term_list": [
+        "progetto di videosorveglianza ambientale"
+      ]
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 5,
+      "sentence_id": 18,
+      "term_list": [
+        "modalità di conferimento"
+      ]
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 5,
+      "sentence_id": 19,
+      "term_list": [
+        "abbandono di materiali",
+        "cassonetti stradali",
+        "errato smaltimento"
+      ]
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 5,
+      "sentence_id": 20,
+      "term_list": [
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 5,
+      "sentence_id": 21,
+      "term_list": [
+        "sacchetti",
+        "bollette"
+      ]
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 6,
+      "sentence_id": 22,
+      "term_list": [
+        "punti di distribuzione"
+      ]
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 6,
+      "sentence_id": 23,
+      "term_list": [
+        "conferimenti",
+        "punti per la distribuzione gratuita",
+        "cassonetti",
+        "conferimento"
+      ]
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 6,
+      "sentence_id": 24,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 6,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 6,
+      "sentence_id": 26,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 6,
+      "sentence_id": 27,
+      "term_list": [
+        "utenti",
+        "contenitori stradali",
+        "essere utilizzato"
+      ]
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 6,
+      "sentence_id": 28,
+      "term_list": [
+        "conferimento",
+        "servizi di raccolta",
+        "abbandono dei rifiuti"
+      ]
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 7,
+      "sentence_id": 29,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 7,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 7,
+      "sentence_id": 31,
+      "term_list": []
+    },
+    {
+      "document_id": "rimini_01",
+      "paragraph_id": 8,
+      "sentence_id": 32,
+      "term_list": []
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 2,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 2,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 6,
+      "term_list": [
+        "ritiro",
+        "vetro"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 8,
+      "term_list": [
+        "bidoni"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 9,
+      "term_list": [
+        "utenza",
+        "bidoni"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 10,
+      "term_list": [
+        "residenti"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 12,
+      "term_list": [
+        "raccolta",
+        "vetro",
+        "imballaggi in metallo",
+        "sacco",
+        "imballaggi in plastica e al tetrapak"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 13,
+      "term_list": [
+        "secco",
+        "essere conferito",
+        "sacchi",
+        "sacchi trasparenti"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 14,
+      "term_list": [
+        "sacchi"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 15,
+      "term_list": [
+        "sacco"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 16,
+      "term_list": [
+        "sacco"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 17,
+      "term_list": [
+        "sacchetti"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 18,
+      "term_list": [
+        "sacchetti"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 19,
+      "term_list": [
+        "sacchetti trasparenti"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 20,
+      "term_list": [
+        "sacchetti trasparenti"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 21,
+      "term_list": [
+        "spazzamenti"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 22,
+      "term_list": [
+        "servizio di spazzamento"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 23,
+      "term_list": [
+        "interventi di pulizia manuale",
+        "svuotamento dei cestini"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 24,
+      "term_list": [
+        "calendario"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 25,
+      "term_list": [
+        "calendario"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 26,
+      "term_list": [
+        "centro di raccolta rifiuti"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 27,
+      "term_list": [
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 28,
+      "term_list": [
+        "raccolta del verde porta a porta"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 29,
+      "term_list": [
+        "essere conferito",
+        "centro di raccolta"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 30,
+      "term_list": [
+        "servizio a pagamento"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 31,
+      "term_list": [
+        "raccolta degli ingombranti porta a porta"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 32,
+      "term_list": [
+        "ritiro",
+        "rifiuti ingombranti"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 33,
+      "term_list": [
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 34,
+      "term_list": []
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 35,
+      "term_list": []
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 36,
+      "term_list": []
+    },
+    {
+      "document_id": "tribiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 37,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 11,
+      "term_list": [
+        "rifiuto"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 14,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 15,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 17,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 18,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 21,
+      "term_list": [
+        "rifiuti speciali"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 22,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 23,
+      "term_list": [
+        "utenze non domestiche"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 24,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 25,
+      "term_list": [
+        "riciclo"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 26,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 27,
+      "term_list": [
+        "avvio a recupero",
+        "riciclo",
+        "conferiti",
+        "utenze non domestiche"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 28,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 29,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 31,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 32,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 33,
+      "term_list": [
+        "costi del servizio rifiuti"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 34,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 35,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 36,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 37,
+      "term_list": [
+        "tariffe"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 38,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 39,
+      "term_list": [
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 40,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 41,
+      "term_list": [
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 42,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 43,
+      "term_list": [
+        "utenze non domestiche"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 44,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 45,
+      "term_list": [
+        "utenze non domestiche"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 46,
+      "term_list": [
+        "20"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 47,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 48,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 49,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 50,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 51,
+      "term_list": [
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 52,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 53,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 54,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 55,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 56,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 57,
+      "term_list": [
+        "utenze non domestiche"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 58,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 59,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 60,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 61,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 62,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 63,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 64,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 65,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 66,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 67,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 68,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 69,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 70,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 71,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 72,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 73,
+      "term_list": [
+        "pagamento"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 74,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 75,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 76,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 77,
+      "term_list": [
+        "importi addebitati"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 78,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 79,
+      "term_list": [
+        "avvisi di pagamento"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 80,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 81,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 82,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 83,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 84,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 85,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 86,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 87,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 88,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 89,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 90,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 91,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 92,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 93,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 94,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 1,
+      "sentence_id": 95,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 2,
+      "sentence_id": 96,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 2,
+      "sentence_id": 97,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 2,
+      "sentence_id": 98,
+      "term_list": [
+        "rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 2,
+      "sentence_id": 99,
+      "term_list": [
+        "servizio di gestione dei rifiuti urbani",
+        "interruzione temporanea"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 2,
+      "sentence_id": 100,
+      "term_list": [
+        "servizio di raccolta e smaltimento dei rifiuti",
+        "rifiuti speciali",
+        "smaltimento"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 2,
+      "sentence_id": 101,
+      "term_list": [
+        "utenze domestiche",
+        "utenze non domestiche"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 3,
+      "sentence_id": 102,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 3,
+      "sentence_id": 103,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 3,
+      "sentence_id": 104,
+      "term_list": [
+        "rifiuti urbani e speciali"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 3,
+      "sentence_id": 105,
+      "term_list": []
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 3,
+      "sentence_id": 106,
+      "term_list": [
+        "rifiuti domestici indifferenziati e da raccolta differenziata",
+        "carta e cartone",
+        "vetro",
+        "plastica",
+        "rifiuti organici",
+        "legno",
+        "tessili",
+        "imballaggi",
+        "rifiuti",
+        "elettriche ed elettroniche",
+        "pile",
+        "rifiuti ingombranti"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 3,
+      "sentence_id": 107,
+      "term_list": [
+        "rifiuti indifferenziati",
+        "raccolta differenziata provenienti",
+        "rifiuti domestici"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 3,
+      "sentence_id": 108,
+      "term_list": [
+        "rifiuti provenienti dallo spazzamento",
+        "svuotamento dei cestini portarifiuti"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 3,
+      "sentence_id": 109,
+      "term_list": [
+        "rifiuti",
+        "giacenti"
+      ]
+    },
+    {
+      "document_id": "coriglianorossano_01",
+      "paragraph_id": 3,
+      "sentence_id": 110,
+      "term_list": [
+        "rifiuti",
+        "manutenzione del verde",
+        "potature",
+        "rifiuti provenienti dalla pulizia dei mercati"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 26,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 27,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 28,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 29,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 31,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 32,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 33,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 34,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 35,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 36,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 37,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 38,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 39,
+      "term_list": [
+        "20"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 40,
+      "term_list": [
+        "20"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 41,
+      "term_list": [
+        "20"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 42,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 43,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 44,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 45,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 46,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 47,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 48,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 49,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 50,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 51,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 52,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 53,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 54,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 55,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 56,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 57,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 58,
+      "term_list": [
+        "gestione dei rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 59,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 60,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 61,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 62,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 63,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 64,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 65,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 66,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 67,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 68,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 69,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 70,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 71,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 72,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 73,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 74,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 75,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 76,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 77,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 78,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 79,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 80,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 81,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 82,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 1,
+      "sentence_id": 83,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 2,
+      "sentence_id": 84,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 3,
+      "sentence_id": 85,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 3,
+      "sentence_id": 86,
+      "term_list": [
+        "disciplina dei servizi di gestione dei rifiuti",
+        "conferimento",
+        "raccolta",
+        "spazzamento",
+        "trasporto",
+        "recupero",
+        "smaltimento"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 3,
+      "sentence_id": 87,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 3,
+      "sentence_id": 88,
+      "term_list": [
+        "rifiuti",
+        "riutilizzo"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 3,
+      "sentence_id": 89,
+      "term_list": [
+        "regolamento condominiale"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 4,
+      "sentence_id": 90,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 4,
+      "sentence_id": 91,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 4,
+      "sentence_id": 92,
+      "term_list": [
+        "gestione dei rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 4,
+      "sentence_id": 93,
+      "term_list": [
+        "modalità del servizio raccolta e trasporto dei rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 4,
+      "sentence_id": 94,
+      "term_list": [
+        "modalità del conferimento della",
+        "raccolta differenziata dei rifiuti urbani",
+        "gestione",
+        "frazioni di rifiuti",
+        "recupero"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 4,
+      "sentence_id": 95,
+      "term_list": [
+        "modalità di raccolta differenziata dei rifiuti ingombranti"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 4,
+      "sentence_id": 96,
+      "term_list": [
+        "raccolta differenziata dei rifiuti urbani pericolosi che possono provocare problemi di impatto ambientale ad es",
+        "oli minerali",
+        "pile esauste"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 4,
+      "sentence_id": 97,
+      "term_list": [
+        "raccolta differenziata di materiali inerti",
+        "costruzione",
+        "utenze domestiche"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 4,
+      "sentence_id": 98,
+      "term_list": [
+        "raccolta differenziata di rifiuti assimilati",
+        "urbani di origine sanitaria"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 4,
+      "sentence_id": 99,
+      "term_list": [
+        "modalità di raccolta dei rifiuti assimilati ai rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 4,
+      "sentence_id": 100,
+      "term_list": [
+        "trasporto",
+        "conferimento",
+        "impianti autorizzati di recupero e/o smaltimento"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 4,
+      "sentence_id": 101,
+      "term_list": [
+        "modalità di esecuzione della pesata dei rifiuti urbani",
+        "recupero",
+        "smaltimento"
+      ]
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 5,
+      "sentence_id": 102,
+      "term_list": []
+    },
+    {
+      "document_id": "trevignanoromano_01",
+      "paragraph_id": 5,
+      "sentence_id": 103,
+      "term_list": [
+        "gestione dei rifiuti"
+      ]
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 2,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 3,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 4,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 4,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 4,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 5,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 5,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 6,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 7,
+      "sentence_id": 11,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 8,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 9,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 10,
+      "sentence_id": 14,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 10,
+      "sentence_id": 15,
+      "term_list": [
+        "servizi",
+        "recupero insoluti per il periodo"
+      ]
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 17,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 18,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 21,
+      "term_list": [
+        "745.758,16"
+      ]
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 22,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 23,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 24,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 26,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 27,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 28,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 29,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 31,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 32,
+      "term_list": [
+        "328.171,73"
+      ]
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 33,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 11,
+      "sentence_id": 34,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 12,
+      "sentence_id": 35,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 13,
+      "sentence_id": 36,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 14,
+      "sentence_id": 37,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 14,
+      "sentence_id": 38,
+      "term_list": [
+        "requisiti di partecipazione di legge"
+      ]
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 15,
+      "sentence_id": 39,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 15,
+      "sentence_id": 40,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 16,
+      "sentence_id": 41,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 17,
+      "sentence_id": 42,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 17,
+      "sentence_id": 43,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 18,
+      "sentence_id": 44,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 18,
+      "sentence_id": 45,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 19,
+      "sentence_id": 46,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 19,
+      "sentence_id": 47,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 19,
+      "sentence_id": 48,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 19,
+      "sentence_id": 49,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 19,
+      "sentence_id": 50,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 19,
+      "sentence_id": 51,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 19,
+      "sentence_id": 52,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 19,
+      "sentence_id": 53,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 19,
+      "sentence_id": 54,
+      "term_list": [
+        "concorrenti"
+      ]
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 20,
+      "sentence_id": 55,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 20,
+      "sentence_id": 56,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 21,
+      "sentence_id": 57,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 21,
+      "sentence_id": 58,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 22,
+      "sentence_id": 59,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 22,
+      "sentence_id": 60,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 23,
+      "sentence_id": 61,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 23,
+      "sentence_id": 62,
+      "term_list": [
+        "sono scaricabili"
+      ]
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 23,
+      "sentence_id": 63,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 23,
+      "sentence_id": 64,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 23,
+      "sentence_id": 65,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 23,
+      "sentence_id": 66,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 24,
+      "sentence_id": 67,
+      "term_list": []
+    },
+    {
+      "document_id": "piacenza_01",
+      "paragraph_id": 24,
+      "sentence_id": 68,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 1,
+      "sentence_id": 67,
+      "term_list": [
+        "organico dirigenziale"
+      ]
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 1,
+      "sentence_id": 68,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 1,
+      "sentence_id": 69,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 1,
+      "sentence_id": 70,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 1,
+      "sentence_id": 71,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 1,
+      "sentence_id": 72,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 2,
+      "sentence_id": 73,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 2,
+      "sentence_id": 74,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 2,
+      "sentence_id": 75,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 2,
+      "sentence_id": 76,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 3,
+      "sentence_id": 77,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 3,
+      "sentence_id": 78,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 4,
+      "sentence_id": 79,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 4,
+      "sentence_id": 80,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 4,
+      "sentence_id": 81,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 4,
+      "sentence_id": 82,
+      "term_list": [
+        "residente"
+      ]
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 83,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 84,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 85,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 86,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 87,
+      "term_list": [
+        "conferire"
+      ]
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 88,
+      "term_list": [
+        "gestione dei rifiuti"
+      ]
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 89,
+      "term_list": [
+        "gestione dei rifiuti urbani"
+      ]
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 90,
+      "term_list": [
+        "rifiuti"
+      ]
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 91,
+      "term_list": [
+        "bonifica e risanamento ambientale dei suoli"
+      ]
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 92,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 93,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 94,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 95,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 96,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 97,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 98,
+      "term_list": []
+    },
+    {
+      "document_id": "roma_01",
+      "paragraph_id": 5,
+      "sentence_id": 99,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 1,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 2,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 1,
+      "sentence_id": 3,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 2,
+      "sentence_id": 4,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 5,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 6,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 3,
+      "sentence_id": 7,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 4,
+      "sentence_id": 8,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 4,
+      "sentence_id": 9,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 4,
+      "sentence_id": 10,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 5,
+      "sentence_id": 11,
+      "term_list": [
+        "informatico"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 6,
+      "sentence_id": 12,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 7,
+      "sentence_id": 13,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 7,
+      "sentence_id": 14,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 7,
+      "sentence_id": 15,
+      "term_list": [
+        "smaltimento dei rifiuti"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 8,
+      "sentence_id": 16,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 8,
+      "sentence_id": 17,
+      "term_list": [
+        "cassone scarrabile",
+        "analisi di caratterizzazione analitica",
+        "trasporto",
+        "smaltimento dei rifiuti"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 8,
+      "sentence_id": 18,
+      "term_list": [
+        "smaltimento",
+        "rifiuti",
+        "conferita"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 9,
+      "sentence_id": 19,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 9,
+      "sentence_id": 20,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 10,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 10,
+      "sentence_id": 22,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 10,
+      "sentence_id": 23,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 10,
+      "sentence_id": 24,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 10,
+      "sentence_id": 25,
+      "term_list": [
+        "2025/2027"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 10,
+      "sentence_id": 26,
+      "term_list": [
+        "2025/2027"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 10,
+      "sentence_id": 27,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 10,
+      "sentence_id": 28,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 11,
+      "sentence_id": 29,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 12,
+      "sentence_id": 30,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 12,
+      "sentence_id": 31,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 12,
+      "sentence_id": 32,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 12,
+      "sentence_id": 33,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 12,
+      "sentence_id": 34,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 12,
+      "sentence_id": 35,
+      "term_list": [
+        "pagamento"
+      ]
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 12,
+      "sentence_id": 36,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 12,
+      "sentence_id": 37,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 12,
+      "sentence_id": 38,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 12,
+      "sentence_id": 39,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 12,
+      "sentence_id": 40,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 12,
+      "sentence_id": 41,
+      "term_list": []
+    },
+    {
+      "document_id": "sangiorgiodipiano_01",
+      "paragraph_id": 12,
+      "sentence_id": 42,
+      "term_list": [
+        "regolamento di contabilità"
+      ]
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 1,
+      "sentence_id": 21,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 2,
+      "sentence_id": 22,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 3,
+      "sentence_id": 23,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 3,
+      "sentence_id": 24,
+      "term_list": [
+        "raccolta differenziata dei rifiuti urbani",
+        "porta a porta"
+      ]
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 3,
+      "sentence_id": 25,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 3,
+      "sentence_id": 26,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 3,
+      "sentence_id": 27,
+      "term_list": [
+        "raccolta differenziata dei rifiuti ingombranti"
+      ]
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 4,
+      "sentence_id": 28,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 4,
+      "sentence_id": 29,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 4,
+      "sentence_id": 30,
+      "term_list": [
+        "raccolta dei rifiuti"
+      ]
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 4,
+      "sentence_id": 31,
+      "term_list": [
+        "microdiscariche abusive"
+      ]
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 4,
+      "sentence_id": 32,
+      "term_list": [
+        "rifiuto"
+      ]
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 5,
+      "sentence_id": 33,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 5,
+      "sentence_id": 34,
+      "term_list": [
+        "rifiuti",
+        "gestore del servizio di igiene urbana"
+      ]
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 6,
+      "sentence_id": 35,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 6,
+      "sentence_id": 36,
+      "term_list": [
+        "rifiuti ingombranti",
+        "piattaforma elettronica"
+      ]
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 6,
+      "sentence_id": 37,
+      "term_list": [
+        "smaltimento"
+      ]
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 6,
+      "sentence_id": 38,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 7,
+      "sentence_id": 39,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 7,
+      "sentence_id": 40,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 7,
+      "sentence_id": 41,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 7,
+      "sentence_id": 42,
+      "term_list": [
+        "scarichi di fogna e di rifiuti"
+      ]
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 7,
+      "sentence_id": 43,
+      "term_list": [
+        "servizi e forniture",
+        "stazioni"
+      ]
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 8,
+      "sentence_id": 44,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 9,
+      "sentence_id": 45,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 46,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 47,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 48,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 49,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 50,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 51,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 52,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 53,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 54,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 55,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 56,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 57,
+      "term_list": [
+        "responsabile unico del procedimento"
+      ]
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 58,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 59,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 60,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 61,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 62,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 63,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 64,
+      "term_list": []
+    },
+    {
+      "document_id": "siracusa_01",
+      "paragraph_id": 10,
+      "sentence_id": 65,
+      "term_list": []
+    }
+  ]
+}
